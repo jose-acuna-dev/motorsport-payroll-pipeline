@@ -1,0 +1,896 @@
+employee_id,employee_name,department,join_date,salary,email_address
+EMP-175,Lando RUSSELL   ,Pit Crew,2021-07-25,87622.0,lando.russell@racingteam.com
+EMP-152,Lando ALONSO   ,Pit Crew,2022-02-22,66178.0,lando.alonso@racingteam.com
+EMP-708,Carlos Hamilton,Sales & Marketing,2019-12-10,75603.0,carlos.hamilton@racingteam.com
+EMP-778,Lando Albon,Logistics,2021-03-23,103355.0,lando.albon@racingteam.com
+EMP-349,Charles Sainz,Aerodynamics,2017-06-15,136214.0,charles.sainz
+EMP-168,Lewis Sainz,Pit Crew,2022-08-05,142057.0,lewis.sainz@racingteam.com
+EMP-481,Carlos Russell,Pit Crew,2022-10-22,74878.0,carlos.russell@racingteam.com
+EMP-539,Oscar Albon,Aerodynamics,2022-05-18,80054.0,oscar.albon@racingteam.com
+EMP-426,Fernando Alonso,Logistics,2017-07-12,137743.0,fernando.alonso@racingteam.com
+EMP-259,charles ALBON   ,Sales & Marketing,2020-06-12,99287.0,charles.albon@racingteam.com
+EMP-315,George Verstappen,Logistics,2017-01-23,78127.0,george.verstappen@racingteam.com
+EMP-543,George Sainz,Aerodynamics,2021-12-07,142773.0,george.sainz@racingteam.com
+EMP-229,Oscar Norris,Pit Crew,2016-10-13,71707.0,oscar.norris
+EMP-224,Carlos Alonso,Sales & Marketing,2016-10-01,141796.0,carlos.alonso@racingteam.com
+EMP-505,Alex Norris,Engineering,2019-11-25,108858.0,alex.norris@racingteam.com
+EMP-619,george Norris,Aerodynamics,2021-06-02,104394.0,george.norris@racingteam.com
+EMP-736,yuki Hamilton,Logistics,2021-03-14,93809.0,yuki.hamilton@racingteam.com
+EMP-110,Lando Norris,Engineering,2018-12-10,64078.0,lando.norris@racingteam.com
+EMP-262,Max Norris,Sales & Marketing,2017-08-06,141029.0,missing_email@email.com
+EMP-444,George Russell,Pit Crew,2019-03-31,91665.0,george.russell@racingteam.com
+EMP-249,Lando Leclerc,Sales & Marketing,2019-01-19,77321.0,lando.leclerc@racingteam.com
+EMP-348,max Verstappen,Engineering,2015-04-18,100667.0,max.verstappen@racingteam.com
+EMP-553,George Hamilton,Aerodynamics,2017-05-15,98368.0,george.hamilton@racingteam.com
+EMP-318,George Russell,Logistics,2021-04-18,130105.0,george.russell@racingteam.com
+EMP-383,Max Albon,Sales & Marketing,2017-12-05,111353.0,max.albon
+EMP-543,Alex Tsunoda,Engineering,2016-12-12,61827.0,alex.tsunoda@racingteam.com
+EMP-915,Lando Hamilton,Sales & Marketing,2020-01-02,108198.0,lando.hamilton@racingteam.com
+EMP-892,charles Albon,Engineering,2021-01-21,67871.0,charles.albon@racingteam.com
+EMP-479,Lando Piastri,Pit Crew,2021-10-13,54539.0,lando.piastri@racingteam.com
+EMP-882,Fernando Piastri,Sales & Marketing,2016-03-17,61531.0,fernando.piastri@racingteam.com
+EMP-260,Carlos Alonso,Pit Crew,2018-03-26,137141.0,carlos.alonso
+EMP-178,Oscar Tsunoda,Sales & Marketing,2017-12-07,115848.0,oscar.tsunoda@racingteam.com
+EMP-410,yuki Hamilton,Sales & Marketing,2018-03-05,61178.0,yuki.hamilton@racingteam.com
+EMP-761,Yuki Russell,Pit Crew,2016-12-18,68537.0,yuki.russell@racingteam.com
+EMP-748,Alex Norris,Logistics,2016-07-05,45568.0,alex.norris
+EMP-192,Fernando Leclerc,Logistics,2020-11-07,121076.0,fernando.leclerc@racingteam.com
+EMP-236,Charles Alonso,Logistics,2022-11-13,86144.0,charles.alonso@racingteam.com
+EMP-526,fernando Leclerc,Logistics,2021-07-05,129555.0,fernando.leclerc@racingteam.com
+EMP-902,Oscar PIASTRI   ,Engineering,2021-01-17,146563.0,oscar.piastri@racingteam.com
+EMP-606,Alex Russell,Engineering,2017-02-26,102424.0,alex.russell@racingteam.com
+EMP-269,Carlos Albon,Pit Crew,2016-05-22,56161.0,carlos.albon@racingteam.com
+EMP-419,George LECLERC   ,Logistics,2017-11-03,84166.0,george.leclerc@racingteam.com
+EMP-149,lando Sainz,Sales & Marketing,2021-02-19,136995.0,lando.sainz@racingteam.com
+EMP-335,Charles Sainz,Sales & Marketing,2020-07-20,91729.0,charles.sainz@racingteam.com
+EMP-572,George Norris,Sales & Marketing,2020-01-18,48945.0,george.norris@racingteam.com
+EMP-316,Charles Norris,Aerodynamics,2018-08-30,145441.0,charles.norris@racingteam.com
+EMP-327,Fernando Hamilton,Pit Crew,2021-05-29,116847.0,fernando.hamilton
+EMP-868,Yuki Albon,Aerodynamics,2018-08-24,72802.0,yuki.albon@racingteam.com
+EMP-260,George Hamilton,Aerodynamics,2020-10-26,121541.0,george.hamilton@racingteam.com
+EMP-948,Max Alonso,Pit Crew,2019-03-17,128050.0,max.alonso@racingteam.com
+EMP-410,Yuki PIASTRI   ,Logistics,2015-12-29,128729.0,yuki.piastri@racingteam.com
+EMP-271,Lando Sainz,Logistics,2018-10-15,135017.0,lando.sainz@racingteam.com
+EMP-185,Charles Hamilton,Aerodynamics,2021-03-08,106216.0,charles.hamilton@racingteam.com
+EMP-514,Fernando Alonso,Pit Crew,2016-12-01,90564.0,fernando.alonso@racingteam.com
+EMP-496,Oscar Sainz,Pit Crew,2018-03-17,100372.0,oscar.sainz@racingteam.com
+EMP-849,Alex LECLERC   ,Pit Crew,2015-08-16,116716.0,alex.leclerc@racingteam.com
+EMP-914,George Sainz,Aerodynamics,2021-06-03,115405.0,george.sainz
+EMP-584,Lewis Sainz,Pit Crew,2015-07-15,88506.0,lewis.sainz@racingteam.com
+EMP-855,Carlos NORRIS   ,Engineering,2022-08-14,84682.0,carlos.norris
+EMP-700,lewis NORRIS   ,Sales & Marketing,2016-01-12,88456.0,lewis.norris@racingteam.com
+EMP-501,Alex Norris,Logistics,2022-07-22,83986.0,alex.norris@racingteam.com
+EMP-110,Fernando Piastri,Sales & Marketing,2022-08-04,136472.0,fernando.piastri
+EMP-719,Yuki Russell,Sales & Marketing,2017-03-02,98554.0,yuki.russell
+EMP-239,Yuki Verstappen,Engineering,2015-05-12,52818.0,missing_email@email.com
+EMP-587,Yuki Hamilton,Logistics,2022-06-27,95570.0,missing_email@email.com
+EMP-879,Charles Alonso,Engineering,2020-10-13,117432.0,charles.alonso@racingteam.com
+EMP-117,George Sainz,Sales & Marketing,2020-06-07,125293.0,george.sainz@racingteam.com
+EMP-602,Charles Sainz,Pit Crew,2022-01-04,71171.0,charles.sainz@racingteam.com
+EMP-883,Lewis Sainz,Logistics,2021-10-26,76179.0,lewis.sainz@racingteam.com
+EMP-441,Max Russell,Pit Crew,2021-10-10,143616.0,max.russell@racingteam.com
+EMP-745,Carlos Hamilton,Logistics,2021-10-16,99896.0,missing_email@email.com
+EMP-499,Fernando Verstappen,Engineering,2021-11-16,134737.0,fernando.verstappen@racingteam.com
+EMP-657,Yuki Russell,Sales & Marketing,2015-04-17,73707.0,yuki.russell@racingteam.com
+EMP-229,Yuki Leclerc,Logistics,2017-09-27,62002.0,yuki.leclerc@racingteam.com
+EMP-706,Alex Leclerc,Logistics,2021-04-27,48718.0,alex.leclerc@racingteam.com
+EMP-280,Max Albon,Pit Crew,2016-10-29,96668.0,max.albon@racingteam.com
+EMP-121,Carlos Russell,Logistics,2021-03-20,73305.0,carlos.russell@racingteam.com
+EMP-136,Max Tsunoda,Aerodynamics,2015-05-19,122101.0,max.tsunoda@racingteam.com
+EMP-762,Lewis Tsunoda,Logistics,2021-05-04,102947.0,missing_email@email.com
+EMP-420,Fernando Alonso,Sales & Marketing,2016-03-20,92540.0,fernando.alonso@racingteam.com
+EMP-876,Carlos Sainz,Engineering,2019-11-28,80167.0,carlos.sainz
+EMP-761,Yuki TSUNODA   ,Engineering,2017-09-23,121225.0,yuki.tsunoda@racingteam.com
+EMP-837,Alex VERSTAPPEN   ,Logistics,2020-08-08,103891.0,alex.verstappen
+EMP-731,Lewis Albon,Pit Crew,2016-11-21,77266.0,lewis.albon@racingteam.com
+EMP-842,Alex Tsunoda,Pit Crew,2015-06-12,99380.0,alex.tsunoda@racingteam.com
+EMP-524,George Leclerc,Logistics,2015-04-05,129817.0,george.leclerc@racingteam.com
+EMP-694,Carlos Leclerc,Pit Crew,2021-06-25,71956.0,carlos.leclerc@racingteam.com
+EMP-386,Alex Hamilton,Engineering,2023-01-28,117768.0,alex.hamilton@racingteam.com
+EMP-769,Lewis Alonso,Engineering,2018-02-09,53745.0,lewis.alonso@racingteam.com
+EMP-753,Lewis Norris,Sales & Marketing,2022-05-31,129130.0,lewis.norris@racingteam.com
+EMP-885,Max Verstappen,Aerodynamics,2015-04-25,89186.0,max.verstappen@racingteam.com
+EMP-323,Max Alonso,Logistics,2018-11-26,70055.0,max.alonso@racingteam.com
+EMP-645,Max Piastri,Pit Crew,2015-06-23,105260.0,max.piastri@racingteam.com
+EMP-880,Lewis Russell,Engineering,2019-06-30,142120.0,lewis.russell
+EMP-573,Alex Piastri,Aerodynamics,2021-05-30,87143.0,alex.piastri@racingteam.com
+EMP-302,Yuki ALBON   ,Engineering,2022-11-22,53200.0,yuki.albon@racingteam.com
+EMP-624,Fernando Verstappen,Pit Crew,2016-02-26,145459.0,fernando.verstappen@racingteam.com
+EMP-452,Fernando Piastri,Pit Crew,2017-08-02,70242.0,fernando.piastri@racingteam.com
+EMP-357,Alex Piastri,Engineering,2022-01-15,69450.0,alex.piastri@racingteam.com
+EMP-921,Yuki Russell,Sales & Marketing,2019-06-12,131317.0,missing_email@email.com
+EMP-281,Carlos Norris,Sales & Marketing,2015-03-23,134201.0,carlos.norris@racingteam.com
+EMP-569,George Norris,Sales & Marketing,2020-07-19,82171.0,george.norris@racingteam.com
+EMP-165,Yuki Tsunoda,Aerodynamics,2017-06-26,50683.0,yuki.tsunoda@racingteam.com
+EMP-690,carlos Hamilton,Sales & Marketing,2018-08-02,149532.0,carlos.hamilton@racingteam.com
+EMP-140,alex Leclerc,Engineering,2019-07-19,118872.0,alex.leclerc@racingteam.com
+EMP-923,charles Norris,Engineering,2019-06-29,127614.0,charles.norris
+EMP-691,Fernando Leclerc,Engineering,2018-07-27,102331.0,fernando.leclerc@racingteam.com
+EMP-740,Lando Verstappen,Engineering,2016-10-21,110748.0,lando.verstappen@racingteam.com
+EMP-675,Alex Russell,Engineering,2022-09-21,68292.0,alex.russell@racingteam.com
+EMP-541,George Alonso,Aerodynamics,2022-03-31,97772.0,george.alonso@racingteam.com
+EMP-310,Max Alonso,Logistics,2018-02-27,57571.0,max.alonso@racingteam.com
+EMP-192,Alex Hamilton,Sales & Marketing,2015-05-31,137280.0,alex.hamilton@racingteam.com
+EMP-155,Carlos Alonso,Aerodynamics,2016-09-28,96097.0,carlos.alonso@racingteam.com
+EMP-806,Yuki Russell,Pit Crew,2021-06-06,94767.0,yuki.russell@racingteam.com
+EMP-698,Lando Sainz,Pit Crew,2021-08-29,84121.0,lando.sainz@racingteam.com
+EMP-314,George Verstappen,Pit Crew,2022-07-11,64571.0,missing_email@email.com
+EMP-909,Lando Hamilton,Aerodynamics,2018-09-27,139948.0,lando.hamilton@racingteam.com
+EMP-915,Charles Norris,Logistics,2017-08-20,74444.0,missing_email@email.com
+EMP-779,Yuki HAMILTON   ,Pit Crew,2018-09-28,146518.0,yuki.hamilton@racingteam.com
+EMP-359,George Hamilton,Aerodynamics,2022-06-02,148045.0,george.hamilton@racingteam.com
+EMP-873,Max Hamilton,Pit Crew,2020-10-20,77493.0,max.hamilton@racingteam.com
+EMP-741,Max Albon,Sales & Marketing,2017-05-25,87384.0,max.albon@racingteam.com
+EMP-841,Alex Hamilton,Pit Crew,2021-12-27,62001.0,alex.hamilton@racingteam.com
+EMP-526,Charles Norris,Logistics,2020-09-10,96177.0,charles.norris
+EMP-401,Carlos Russell,Pit Crew,2019-03-18,54830.0,carlos.russell@racingteam.com
+EMP-626,Lewis Verstappen,Logistics,2016-04-29,99344.0,lewis.verstappen@racingteam.com
+EMP-859,Alex Russell,Sales & Marketing,2019-05-23,129467.0,alex.russell
+EMP-631,Lewis Piastri,Pit Crew,2018-12-13,111924.0,lewis.piastri
+EMP-838,george Russell,Logistics,2016-08-24,103482.0,george.russell@racingteam.com
+EMP-781,Yuki Norris,Sales & Marketing,2022-10-04,74334.0,yuki.norris@racingteam.com
+EMP-942,George Norris,Logistics,2021-04-18,124964.0,george.norris
+EMP-352,Fernando Alonso,Sales & Marketing,2019-06-03,142316.0,fernando.alonso@racingteam.com
+EMP-770,Lando Russell,Engineering,2019-03-06,114065.0,lando.russell@racingteam.com
+EMP-689,Fernando Albon,Pit Crew,2015-03-27,67527.0,fernando.albon@racingteam.com
+EMP-148,Fernando NORRIS   ,Pit Crew,2022-01-23,142595.0,fernando.norris@racingteam.com
+EMP-897,Charles Norris,Logistics,2018-12-02,129599.0,charles.norris@racingteam.com
+EMP-664,Charles Albon,Pit Crew,2020-11-13,50737.0,missing_email@email.com
+EMP-612,Lewis Alonso,Aerodynamics,2017-12-13,49230.0,lewis.alonso@racingteam.com
+EMP-673,Oscar Hamilton,Pit Crew,2021-10-16,120483.0,oscar.hamilton@racingteam.com
+EMP-163,George PIASTRI   ,Logistics,2019-01-11,81989.0,george.piastri@racingteam.com
+EMP-130,Lando Verstappen,Logistics,2022-04-15,99987.0,lando.verstappen@racingteam.com
+EMP-801,Fernando Norris,Sales & Marketing,2015-10-23,65152.0,fernando.norris@racingteam.com
+EMP-479,George Verstappen,Aerodynamics,2016-12-01,77087.0,george.verstappen@racingteam.com
+EMP-703,Oscar Albon,Engineering,2015-12-24,62102.0,oscar.albon@racingteam.com
+EMP-669,Yuki Albon,Engineering,2018-03-31,50535.0,yuki.albon@racingteam.com
+EMP-599,Alex Norris,Logistics,2015-08-18,88829.0,alex.norris@racingteam.com
+EMP-806,Oscar Leclerc,Aerodynamics,2016-04-08,121735.0,oscar.leclerc@racingteam.com
+EMP-872,Yuki Verstappen,Sales & Marketing,2021-03-11,82101.0,yuki.verstappen@racingteam.com
+EMP-424,Oscar Alonso,Pit Crew,2016-08-16,138804.0,oscar.alonso@racingteam.com
+EMP-238,lando Tsunoda,Engineering,2018-07-16,112552.0,lando.tsunoda@racingteam.com
+EMP-356,Carlos Tsunoda,Aerodynamics,2020-10-14,82363.0,carlos.tsunoda@racingteam.com
+EMP-649,Lewis Russell,Sales & Marketing,2023-02-05,79522.0,lewis.russell@racingteam.com
+EMP-776,Max Hamilton,Pit Crew,2022-02-04,69833.0,max.hamilton@racingteam.com
+EMP-935,Carlos Russell,Engineering,2015-03-06,146998.0,carlos.russell@racingteam.com
+EMP-896,George Leclerc,Pit Crew,2017-10-01,148028.0,george.leclerc@racingteam.com
+EMP-653,Lewis Piastri,Logistics,2021-09-13,143161.0,lewis.piastri@racingteam.com
+EMP-900,lando Tsunoda,Pit Crew,2018-02-21,91316.0,lando.tsunoda@racingteam.com
+EMP-425,Yuki Alonso,Engineering,2015-06-01,122356.0,missing_email@email.com
+EMP-679,Carlos Verstappen,Logistics,2015-11-04,143399.0,carlos.verstappen@racingteam.com
+EMP-103,Yuki Alonso,Engineering,2016-05-18,81630.0,yuki.alonso@racingteam.com
+EMP-755,Oscar Verstappen,Aerodynamics,2015-05-12,97581.0,oscar.verstappen@racingteam.com
+EMP-323,Charles Norris,Sales & Marketing,2021-08-11,114922.0,charles.norris@racingteam.com
+EMP-597,Oscar Alonso,Engineering,2016-07-12,148503.0,oscar.alonso@racingteam.com
+EMP-836,Charles Russell,Engineering,2017-12-08,47751.0,missing_email@email.com
+EMP-829,Fernando Norris,Logistics,2019-05-13,115852.0,fernando.norris@racingteam.com
+EMP-892,Max Piastri,Aerodynamics,2015-08-02,94444.0,max.piastri@racingteam.com
+EMP-655,Fernando Alonso,Sales & Marketing,2022-11-15,58005.0,fernando.alonso@racingteam.com
+EMP-124,Max Russell,Aerodynamics,2022-06-16,135092.0,max.russell@racingteam.com
+EMP-898,Yuki Tsunoda,Pit Crew,2016-02-16,136551.0,yuki.tsunoda
+EMP-793,Fernando Russell,Aerodynamics,2017-06-28,112999.0,fernando.russell@racingteam.com
+EMP-448,Alex Leclerc,Pit Crew,2016-06-19,112499.0,alex.leclerc@racingteam.com
+EMP-782,Max Norris,Aerodynamics,2018-02-04,96879.0,max.norris
+EMP-194,yuki Piastri,Logistics,2018-10-25,141002.0,yuki.piastri@racingteam.com
+EMP-160,Carlos Russell,Pit Crew,2022-07-10,123411.0,carlos.russell@racingteam.com
+EMP-715,Lando Russell,Sales & Marketing,2021-04-20,102273.0,lando.russell@racingteam.com
+EMP-159,Oscar Alonso,Engineering,2017-11-10,129765.0,oscar.alonso@racingteam.com
+EMP-546,Charles Russell,Engineering,2022-05-16,102670.0,missing_email@email.com
+EMP-370,Lewis ALONSO   ,Sales & Marketing,2015-04-18,94074.0,lewis.alonso@racingteam.com
+EMP-257,George Alonso,Engineering,2016-05-25,134650.0,george.alonso
+EMP-299,oscar Alonso,Logistics,2015-08-10,138007.0,oscar.alonso@racingteam.com
+EMP-271,George Alonso,Aerodynamics,2018-11-08,86533.0,george.alonso@racingteam.com
+EMP-136,Oscar Alonso,Pit Crew,2015-11-16,60650.0,oscar.alonso@racingteam.com
+EMP-187,Lando Leclerc,Engineering,2018-11-27,102431.0,lando.leclerc@racingteam.com
+EMP-136,Lando Hamilton,Aerodynamics,2021-03-04,106710.0,lando.hamilton@racingteam.com
+EMP-888,Max Russell,Sales & Marketing,2015-04-23,78792.0,max.russell@racingteam.com
+EMP-649,Charles Russell,Pit Crew,2020-06-27,128769.0,charles.russell@racingteam.com
+EMP-729,Lewis Verstappen,Logistics,2021-05-05,52017.0,lewis.verstappen@racingteam.com
+EMP-167,max Tsunoda,Engineering,2015-11-12,81168.0,missing_email@email.com
+EMP-823,Charles Tsunoda,Sales & Marketing,2016-03-24,109297.0,charles.tsunoda@racingteam.com
+EMP-434,Fernando Leclerc,Pit Crew,2018-01-21,78681.0,fernando.leclerc@racingteam.com
+EMP-853,Carlos Leclerc,Sales & Marketing,2018-07-09,105249.0,carlos.leclerc@racingteam.com
+EMP-876,Yuki SAINZ   ,Logistics,2015-04-30,60212.0,yuki.sainz@racingteam.com
+EMP-754,Lando Sainz,Engineering,2022-08-03,116482.0,lando.sainz@racingteam.com
+EMP-175,Yuki Leclerc,Aerodynamics,2018-08-02,138000.0,yuki.leclerc@racingteam.com
+EMP-360,Alex Verstappen,Sales & Marketing,2017-02-19,59125.0,alex.verstappen
+EMP-526,Alex Hamilton,Aerodynamics,2017-12-23,147616.0,alex.hamilton@racingteam.com
+EMP-478,Lando Albon,Pit Crew,2015-06-14,60432.0,lando.albon@racingteam.com
+EMP-702,Oscar VERSTAPPEN   ,Aerodynamics,2015-05-09,54287.0,oscar.verstappen@racingteam.com
+EMP-313,Alex Russell,Pit Crew,2016-09-03,49085.0,alex.russell@racingteam.com
+EMP-375,Lando Albon,Sales & Marketing,2018-07-12,85449.0,lando.albon@racingteam.com
+EMP-874,Max Hamilton,Sales & Marketing,2022-03-24,49440.0,max.hamilton
+EMP-344,Lewis Alonso,Sales & Marketing,2015-10-25,126416.0,lewis.alonso@racingteam.com
+EMP-230,Yuki Tsunoda,Logistics,2017-05-20,49273.0,yuki.tsunoda@racingteam.com
+EMP-352,Max Norris,Logistics,2022-07-14,92876.0,max.norris@racingteam.com
+EMP-280,Carlos TSUNODA   ,Aerodynamics,2018-05-05,98347.0,carlos.tsunoda@racingteam.com
+EMP-628,Charles Piastri,Engineering,2022-03-05,84438.0,charles.piastri@racingteam.com
+EMP-554,yuki LECLERC   ,Engineering,2018-01-30,82836.0,yuki.leclerc@racingteam.com
+EMP-335,Fernando Albon,Pit Crew,2020-06-24,129108.0,fernando.albon@racingteam.com
+EMP-613,Fernando Leclerc,Engineering,2022-04-25,118553.0,fernando.leclerc@racingteam.com
+EMP-418,Carlos Albon,Aerodynamics,2022-05-23,47946.0,carlos.albon@racingteam.com
+EMP-296,charles Alonso,Aerodynamics,2020-11-20,128009.0,charles.alonso@racingteam.com
+EMP-180,Charles Piastri,Engineering,2021-01-23,74362.0,charles.piastri@racingteam.com
+EMP-739,Alex Tsunoda,Sales & Marketing,2018-05-20,115442.0,alex.tsunoda@racingteam.com
+EMP-559,Fernando Piastri,Logistics,2015-02-24,125786.0,missing_email@email.com
+EMP-143,Alex Tsunoda,Aerodynamics,2020-08-09,126087.0,alex.tsunoda@racingteam.com
+EMP-564,fernando Tsunoda,Engineering,2018-02-13,118079.0,fernando.tsunoda@racingteam.com
+EMP-652,yuki TSUNODA   ,Sales & Marketing,2021-10-08,56970.0,yuki.tsunoda@racingteam.com
+EMP-764,lando Piastri,Sales & Marketing,2018-12-16,94332.0,lando.piastri@racingteam.com
+EMP-502,Oscar Tsunoda,Pit Crew,2018-02-26,130755.0,oscar.tsunoda@racingteam.com
+EMP-585,Yuki Leclerc,Aerodynamics,2018-03-13,77949.0,yuki.leclerc@racingteam.com
+EMP-132,Fernando Norris,Sales & Marketing,2015-05-28,117963.0,fernando.norris@racingteam.com
+EMP-447,Carlos Tsunoda,Aerodynamics,2021-09-03,122710.0,carlos.tsunoda@racingteam.com
+EMP-943,Yuki Hamilton,Logistics,2019-11-12,140238.0,yuki.hamilton@racingteam.com
+EMP-683,Max Albon,Sales & Marketing,2021-05-04,79179.0,max.albon@racingteam.com
+EMP-451,George Leclerc,Pit Crew,2019-06-29,68578.0,george.leclerc@racingteam.com
+EMP-523,Carlos Verstappen,Sales & Marketing,2015-07-31,116987.0,carlos.verstappen@racingteam.com
+EMP-112,Alex Albon,Sales & Marketing,2021-05-09,144402.0,missing_email@email.com
+EMP-147,Max Tsunoda,Sales & Marketing,2022-01-23,139155.0,max.tsunoda@racingteam.com
+EMP-557,George Norris,Aerodynamics,2019-08-16,116971.0,george.norris
+EMP-535,fernando Norris,Engineering,2020-01-02,133712.0,fernando.norris@racingteam.com
+EMP-392,Fernando SAINZ   ,Engineering,2015-08-20,143328.0,fernando.sainz@racingteam.com
+EMP-167,George Norris,Pit Crew,2022-05-13,123997.0,george.norris@racingteam.com
+EMP-419,George Leclerc,Logistics,2018-11-02,84935.0,george.leclerc@racingteam.com
+EMP-688,lewis Hamilton,Sales & Marketing,2021-05-07,147014.0,lewis.hamilton
+EMP-254,Max Alonso,Aerodynamics,2018-09-17,99496.0,max.alonso@racingteam.com
+EMP-243,Carlos Russell,Aerodynamics,2022-08-26,140457.0,carlos.russell@racingteam.com
+EMP-284,fernando Leclerc,Engineering,2017-10-14,134688.0,fernando.leclerc
+EMP-532,Max Hamilton,Pit Crew,2020-07-14,59311.0,max.hamilton@racingteam.com
+EMP-625,Carlos Hamilton,Aerodynamics,2020-01-27,117105.0,carlos.hamilton@racingteam.com
+EMP-727,Fernando Hamilton,Logistics,2016-06-01,64398.0,fernando.hamilton@racingteam.com
+EMP-185,Lewis Tsunoda,Sales & Marketing,2016-06-07,84375.0,lewis.tsunoda@racingteam.com
+EMP-886,Charles Alonso,Aerodynamics,2018-05-30,87291.0,charles.alonso@racingteam.com
+EMP-220,Charles ALBON   ,Sales & Marketing,2016-05-18,120377.0,charles.albon@racingteam.com
+EMP-882,Fernando Albon,Logistics,2019-12-19,122139.0,fernando.albon@racingteam.com
+EMP-473,Carlos Russell,Aerodynamics,2021-04-12,98264.0,carlos.russell@racingteam.com
+EMP-171,Alex Norris,Sales & Marketing,2022-03-26,56866.0,missing_email@email.com
+EMP-862,Alex Tsunoda,Logistics,2022-07-22,133487.0,alex.tsunoda@racingteam.com
+EMP-776,Fernando Norris,Engineering,2015-12-03,94807.0,fernando.norris@racingteam.com
+EMP-566,Charles Albon,Aerodynamics,2018-06-19,135256.0,charles.albon@racingteam.com
+EMP-577,Lando Hamilton,Aerodynamics,2019-04-23,99805.0,lando.hamilton@racingteam.com
+EMP-688,Lando Leclerc,Sales & Marketing,2020-10-20,147270.0,lando.leclerc@racingteam.com
+EMP-142,Lando Piastri,Sales & Marketing,2022-04-24,88904.0,lando.piastri@racingteam.com
+EMP-410,lewis Tsunoda,Logistics,2018-06-03,73256.0,lewis.tsunoda@racingteam.com
+EMP-857,Fernando RUSSELL   ,Pit Crew,2018-01-09,56442.0,fernando.russell@racingteam.com
+EMP-693,George Russell,Logistics,2021-05-24,120777.0,george.russell@racingteam.com
+EMP-191,Yuki Verstappen,Aerodynamics,2019-10-23,64562.0,yuki.verstappen@racingteam.com
+EMP-764,charles Norris,Pit Crew,2022-12-07,148686.0,charles.norris@racingteam.com
+EMP-644,Lewis ALONSO   ,Engineering,2022-02-21,104345.0,lewis.alonso@racingteam.com
+EMP-897,Lando Piastri,Logistics,2022-09-08,63198.0,lando.piastri@racingteam.com
+EMP-228,Max Alonso,Engineering,2021-04-09,55119.0,max.alonso@racingteam.com
+EMP-257,George Russell,Engineering,2019-08-30,45863.0,george.russell@racingteam.com
+EMP-832,Max Hamilton,Aerodynamics,2016-02-09,111085.0,max.hamilton@racingteam.com
+EMP-551,George Hamilton,Engineering,2019-01-22,86263.0,missing_email@email.com
+EMP-152,Lewis Norris,Logistics,2016-03-30,123105.0,missing_email@email.com
+EMP-444,Lewis Russell,Pit Crew,2020-10-19,52441.0,lewis.russell@racingteam.com
+EMP-714,Fernando Russell,Sales & Marketing,2017-11-28,98031.0,fernando.russell
+EMP-730,Lewis Russell,Logistics,2018-06-11,87072.0,lewis.russell@racingteam.com
+EMP-593,Fernando Norris,Logistics,2019-11-19,89852.0,fernando.norris@racingteam.com
+EMP-344,Yuki Russell,Sales & Marketing,2015-01-28,54664.0,yuki.russell@racingteam.com
+EMP-274,Carlos Albon,Aerodynamics,2017-10-10,50921.0,carlos.albon@racingteam.com
+EMP-278,Fernando ALONSO   ,Pit Crew,2015-10-26,94063.0,fernando.alonso@racingteam.com
+EMP-627,George Albon,Sales & Marketing,2016-05-01,109045.0,george.albon@racingteam.com
+EMP-943,Yuki Hamilton,Aerodynamics,2018-05-31,60220.0,yuki.hamilton@racingteam.com
+EMP-648,Max Norris,Engineering,2021-04-27,112033.0,max.norris@racingteam.com
+EMP-933,Max Sainz,Logistics,2018-08-18,83356.0,max.sainz@racingteam.com
+EMP-382,Fernando Piastri,Engineering,2015-12-23,98282.0,fernando.piastri@racingteam.com
+EMP-864,Oscar Verstappen,Engineering,2023-02-03,119395.0,oscar.verstappen@racingteam.com
+EMP-114,George Piastri,Engineering,2018-11-11,58462.0,george.piastri@racingteam.com
+EMP-613,Lewis Sainz,Aerodynamics,2018-02-21,89798.0,lewis.sainz@racingteam.com
+EMP-646,Lando TSUNODA   ,Sales & Marketing,2018-06-25,138089.0,lando.tsunoda@racingteam.com
+EMP-768,Yuki Tsunoda,Pit Crew,2022-03-30,145758.0,yuki.tsunoda@racingteam.com
+EMP-401,Yuki PIASTRI   ,Aerodynamics,2022-04-20,117264.0,yuki.piastri@racingteam.com
+EMP-500,Charles NORRIS   ,Pit Crew,2019-01-06,138639.0,charles.norris@racingteam.com
+EMP-147,Lando Hamilton,Aerodynamics,2018-07-12,72152.0,lando.hamilton@racingteam.com
+EMP-355,Lando Russell,Aerodynamics,2019-11-30,66802.0,lando.russell@racingteam.com
+EMP-546,Oscar Russell,Engineering,2018-06-18,83150.0,oscar.russell
+EMP-495,George Sainz,Sales & Marketing,2015-12-25,103224.0,george.sainz@racingteam.com
+EMP-894,Oscar Hamilton,Logistics,2021-12-04,53856.0,oscar.hamilton@racingteam.com
+EMP-801,George Albon,Sales & Marketing,2018-04-16,96166.0,george.albon@racingteam.com
+EMP-845,Lewis Norris,Sales & Marketing,2016-11-29,98840.0,lewis.norris@racingteam.com
+EMP-753,Alex TSUNODA   ,Logistics,2015-02-18,139659.0,alex.tsunoda@racingteam.com
+EMP-534,Max Verstappen,Pit Crew,2022-08-02,132251.0,max.verstappen@racingteam.com
+EMP-160,charles Alonso,Sales & Marketing,2022-10-24,147676.0,charles.alonso@racingteam.com
+EMP-636,Oscar Hamilton,Engineering,2019-12-15,99028.0,oscar.hamilton@racingteam.com
+EMP-694,Max Verstappen,Logistics,2018-02-09,93865.0,max.verstappen@racingteam.com
+EMP-333,Carlos Albon,Logistics,2019-04-07,134224.0,carlos.albon@racingteam.com
+EMP-610,Max Verstappen,Engineering,2017-10-19,91665.0,missing_email@email.com
+EMP-834,alex Tsunoda,Aerodynamics,2020-10-03,118912.0,alex.tsunoda@racingteam.com
+EMP-406,Alex Russell,Sales & Marketing,2018-05-12,47180.0,alex.russell@racingteam.com
+EMP-530,George Sainz,Sales & Marketing,2019-04-11,142175.0,george.sainz@racingteam.com
+EMP-806,Lewis Piastri,Logistics,2015-06-04,65461.0,lewis.piastri@racingteam.com
+EMP-942,Lewis Albon,Logistics,2015-01-17,119814.0,lewis.albon@racingteam.com
+EMP-840,carlos Norris,Pit Crew,2018-05-27,74852.0,carlos.norris
+EMP-487,George Piastri,Logistics,2022-09-15,104151.0,george.piastri@racingteam.com
+EMP-692,Alex Leclerc,Pit Crew,2020-02-22,110463.0,missing_email@email.com
+EMP-337,Oscar Alonso,Aerodynamics,2020-09-01,96688.0,oscar.alonso@racingteam.com
+EMP-468,Oscar ALBON   ,Engineering,2018-12-25,125304.0,oscar.albon@racingteam.com
+EMP-276,Lewis Alonso,Sales & Marketing,2018-09-19,51460.0,lewis.alonso@racingteam.com
+EMP-299,fernando Sainz,Engineering,2020-03-16,53943.0,fernando.sainz@racingteam.com
+EMP-258,Carlos Leclerc,Logistics,2018-05-18,120061.0,carlos.leclerc
+EMP-780,Yuki Leclerc,Logistics,2023-01-14,81102.0,yuki.leclerc@racingteam.com
+EMP-722,Alex Alonso,Sales & Marketing,2019-05-02,59239.0,alex.alonso@racingteam.com
+EMP-382,lewis Verstappen,Pit Crew,2016-05-18,104641.0,lewis.verstappen@racingteam.com
+EMP-855,Max Albon,Pit Crew,2022-02-24,128967.0,max.albon@racingteam.com
+EMP-130,George Alonso,Pit Crew,2017-02-08,69215.0,george.alonso@racingteam.com
+EMP-742,Lando Tsunoda,Sales & Marketing,2016-11-14,78438.0,lando.tsunoda@racingteam.com
+EMP-482,George Piastri,Engineering,2019-07-03,50938.0,george.piastri@racingteam.com
+EMP-507,Carlos Norris,Engineering,2015-10-25,93714.0,carlos.norris@racingteam.com
+EMP-450,Carlos Albon,Aerodynamics,2017-12-25,45947.0,carlos.albon@racingteam.com
+EMP-295,George Piastri,Aerodynamics,2015-06-26,84883.0,george.piastri@racingteam.com
+EMP-150,George VERSTAPPEN   ,Engineering,2015-11-24,128744.0,george.verstappen@racingteam.com
+EMP-483,Lewis Russell,Pit Crew,2019-12-02,102587.0,lewis.russell@racingteam.com
+EMP-498,Alex Sainz,Sales & Marketing,2018-12-11,96116.0,alex.sainz@racingteam.com
+EMP-106,Alex Tsunoda,Aerodynamics,2023-02-07,91469.0,alex.tsunoda@racingteam.com
+EMP-279,yuki Tsunoda,Logistics,2015-05-18,111918.0,yuki.tsunoda@racingteam.com
+EMP-620,Lando Russell,Aerodynamics,2020-08-12,118490.0,lando.russell
+EMP-151,Yuki Tsunoda,Aerodynamics,2021-11-02,58352.0,yuki.tsunoda
+EMP-549,Alex Norris,Engineering,2022-05-16,112045.0,alex.norris@racingteam.com
+EMP-923,oscar Russell,Pit Crew,2020-02-06,143174.0,oscar.russell@racingteam.com
+EMP-356,Max Norris,Aerodynamics,2020-10-29,54556.0,max.norris@racingteam.com
+EMP-875,Lando Norris,Logistics,2018-03-24,135937.0,lando.norris@racingteam.com
+EMP-823,Alex Tsunoda,Pit Crew,2019-03-23,88665.0,alex.tsunoda@racingteam.com
+EMP-754,Lewis Russell,Engineering,2020-02-07,124395.0,lewis.russell@racingteam.com
+EMP-402,Alex Verstappen,Sales & Marketing,2020-10-11,97538.0,alex.verstappen@racingteam.com
+EMP-814,Alex Leclerc,Engineering,2019-04-04,112403.0,missing_email@email.com
+EMP-650,Lewis Russell,Aerodynamics,2016-09-21,88286.0,lewis.russell@racingteam.com
+EMP-775,Max Alonso,Pit Crew,2020-09-17,115282.0,max.alonso
+EMP-357,Yuki Norris,Pit Crew,2021-07-21,143090.0,yuki.norris@racingteam.com
+EMP-705,Fernando Verstappen,Logistics,2020-03-06,97797.0,fernando.verstappen@racingteam.com
+EMP-114,george Russell,Logistics,2016-05-25,130054.0,george.russell@racingteam.com
+EMP-755,Lando Russell,Engineering,2017-07-13,57838.0,lando.russell@racingteam.com
+EMP-401,George Norris,Logistics,2021-06-12,103034.0,george.norris@racingteam.com
+EMP-151,Charles Albon,Sales & Marketing,2022-08-30,91392.0,charles.albon@racingteam.com
+EMP-748,Oscar ALBON   ,Pit Crew,2015-02-14,112195.0,oscar.albon@racingteam.com
+EMP-596,Yuki Sainz,Engineering,2019-05-24,46032.0,yuki.sainz@racingteam.com
+EMP-582,Oscar Verstappen,Logistics,2015-12-02,114228.0,oscar.verstappen
+EMP-339,Fernando Alonso,Sales & Marketing,2020-01-13,86377.0,fernando.alonso@racingteam.com
+EMP-718,Lewis Sainz,Sales & Marketing,2018-04-15,126070.0,lewis.sainz@racingteam.com
+EMP-544,Lando Norris,Engineering,2019-03-30,86674.0,lando.norris@racingteam.com
+EMP-519,lewis Leclerc,Engineering,2020-05-22,45358.0,lewis.leclerc
+EMP-450,Alex Tsunoda,Aerodynamics,2015-06-06,106599.0,alex.tsunoda@racingteam.com
+EMP-541,Oscar SAINZ   ,Pit Crew,2021-10-29,89068.0,oscar.sainz@racingteam.com
+EMP-675,George Norris,Sales & Marketing,2023-02-01,82700.0,george.norris@racingteam.com
+EMP-802,Max Norris,Logistics,2019-04-10,149862.0,missing_email@email.com
+EMP-686,fernando Albon,Logistics,2021-05-05,110035.0,fernando.albon@racingteam.com
+EMP-254,Max PIASTRI   ,Sales & Marketing,2021-01-26,107115.0,max.piastri@racingteam.com
+EMP-149,Max Sainz,Engineering,2015-08-20,82914.0,max.sainz@racingteam.com
+EMP-213,Yuki Albon,Logistics,2016-08-11,45205.0,yuki.albon@racingteam.com
+EMP-724,Fernando Leclerc,Logistics,2017-06-13,58926.0,fernando.leclerc@racingteam.com
+EMP-482,Lando TSUNODA   ,Logistics,2019-08-06,129554.0,lando.tsunoda@racingteam.com
+EMP-899,Lewis Russell,Sales & Marketing,2019-04-10,105784.0,missing_email@email.com
+EMP-617,yuki Alonso,Sales & Marketing,2017-01-23,116659.0,yuki.alonso@racingteam.com
+EMP-829,George Verstappen,Engineering,2022-04-13,55133.0,george.verstappen@racingteam.com
+EMP-559,fernando Alonso,Logistics,2018-11-25,115419.0,missing_email@email.com
+EMP-421,Lando Tsunoda,Pit Crew,2021-04-01,55780.0,missing_email@email.com
+EMP-664,lewis ALBON   ,Pit Crew,2019-05-15,142163.0,lewis.albon@racingteam.com
+EMP-631,Fernando Hamilton,Sales & Marketing,2020-06-28,99646.0,missing_email@email.com
+EMP-915,Oscar Albon,Pit Crew,2020-08-31,52857.0,oscar.albon@racingteam.com
+EMP-910,George Alonso,Aerodynamics,2022-04-10,137240.0,george.alonso@racingteam.com
+EMP-238,yuki Leclerc,Engineering,2018-10-14,94692.0,yuki.leclerc@racingteam.com
+EMP-600,oscar Verstappen,Logistics,2022-10-12,149116.0,oscar.verstappen@racingteam.com
+EMP-212,Max Sainz,Aerodynamics,2020-12-14,79809.0,max.sainz@racingteam.com
+EMP-689,Fernando Alonso,Logistics,2022-01-13,136382.0,fernando.alonso@racingteam.com
+EMP-793,Charles Leclerc,Aerodynamics,2018-10-15,125945.0,charles.leclerc@racingteam.com
+EMP-643,Yuki Alonso,Pit Crew,2018-05-13,115772.0,yuki.alonso@racingteam.com
+EMP-366,Carlos Tsunoda,Pit Crew,2022-01-01,108538.0,carlos.tsunoda@racingteam.com
+EMP-321,Yuki Sainz,Aerodynamics,2018-06-16,123407.0,yuki.sainz@racingteam.com
+EMP-373,Carlos Hamilton,Logistics,2020-06-28,103529.0,carlos.hamilton@racingteam.com
+EMP-482,Carlos PIASTRI   ,Logistics,2020-11-17,48794.0,carlos.piastri@racingteam.com
+EMP-917,Lewis ALBON   ,Pit Crew,2021-04-15,77754.0,lewis.albon@racingteam.com
+EMP-512,Oscar Hamilton,Sales & Marketing,2018-09-02,146467.0,oscar.hamilton
+EMP-601,Lando Alonso,Sales & Marketing,2019-11-19,113386.0,lando.alonso@racingteam.com
+EMP-162,Oscar Albon,Sales & Marketing,2015-07-12,129320.0,oscar.albon@racingteam.com
+EMP-555,Alex Albon,Pit Crew,2016-03-27,57853.0,alex.albon@racingteam.com
+EMP-675,Lando Hamilton,Engineering,2018-03-15,109382.0,missing_email@email.com
+EMP-857,Charles Piastri,Aerodynamics,2018-07-02,144227.0,charles.piastri
+EMP-647,Charles Albon,Aerodynamics,2018-06-16,86222.0,charles.albon@racingteam.com
+EMP-523,Carlos Albon,Aerodynamics,2021-07-20,99732.0,carlos.albon@racingteam.com
+EMP-589,Oscar Sainz,Engineering,2016-05-08,105302.0,oscar.sainz
+EMP-407,Charles Leclerc,Aerodynamics,2016-07-22,109752.0,charles.leclerc@racingteam.com
+EMP-514,Charles Tsunoda,Logistics,2019-06-02,131900.0,charles.tsunoda@racingteam.com
+EMP-380,Lewis Albon,Sales & Marketing,2022-04-30,55202.0,lewis.albon@racingteam.com
+EMP-616,Fernando Norris,Logistics,2020-06-06,128039.0,fernando.norris@racingteam.com
+EMP-731,Lewis Albon,Engineering,2015-04-17,135196.0,missing_email@email.com
+EMP-299,Alex Piastri,Pit Crew,2015-12-09,103387.0,alex.piastri@racingteam.com
+EMP-319,Lewis LECLERC   ,Sales & Marketing,2018-05-01,90780.0,lewis.leclerc@racingteam.com
+EMP-125,George Albon,Sales & Marketing,2019-03-15,83543.0,george.albon@racingteam.com
+EMP-108,Lando Alonso,Pit Crew,2019-02-07,51705.0,lando.alonso@racingteam.com
+EMP-261,Oscar Albon,Pit Crew,2018-08-22,99046.0,oscar.albon@racingteam.com
+EMP-666,Lewis Norris,Logistics,2021-12-27,60572.0,lewis.norris
+EMP-581,Carlos Albon,Sales & Marketing,2020-08-11,134220.0,carlos.albon@racingteam.com
+EMP-251,Lewis Leclerc,Engineering,2017-05-10,45183.0,lewis.leclerc@racingteam.com
+EMP-921,Yuki Sainz,Aerodynamics,2015-08-17,83655.0,yuki.sainz@racingteam.com
+EMP-616,Yuki Hamilton,Engineering,2022-04-09,69405.0,yuki.hamilton@racingteam.com
+EMP-481,Yuki Alonso,Aerodynamics,2020-08-23,69696.0,yuki.alonso@racingteam.com
+EMP-264,Max Tsunoda,Aerodynamics,2021-03-03,134356.0,max.tsunoda@racingteam.com
+EMP-183,Yuki Tsunoda,Logistics,2018-09-11,131005.0,yuki.tsunoda@racingteam.com
+EMP-760,Carlos HAMILTON   ,Engineering,2020-10-29,98961.0,carlos.hamilton@racingteam.com
+EMP-353,Alex Leclerc,Pit Crew,2017-12-15,77421.0,alex.leclerc@racingteam.com
+EMP-742,Lewis Russell,Engineering,2020-12-11,126123.0,lewis.russell@racingteam.com
+EMP-246,Lando Alonso,Sales & Marketing,2020-11-27,143362.0,lando.alonso@racingteam.com
+EMP-238,Fernando Tsunoda,Logistics,2023-02-24,99379.0,fernando.tsunoda@racingteam.com
+EMP-108,Charles Norris,Sales & Marketing,2017-07-02,105591.0,charles.norris@racingteam.com
+EMP-724,Oscar Russell,Pit Crew,2018-02-05,109871.0,oscar.russell@racingteam.com
+EMP-368,charles Norris,Engineering,2020-07-04,99230.0,charles.norris@racingteam.com
+EMP-108,Alex Leclerc,Engineering,2021-11-28,73474.0,missing_email@email.com
+EMP-542,Fernando Hamilton,Sales & Marketing,2015-06-28,74431.0,fernando.hamilton@racingteam.com
+EMP-106,Yuki Albon,Aerodynamics,2016-05-10,77401.0,yuki.albon@racingteam.com
+EMP-495,Lewis Verstappen,Aerodynamics,2019-02-18,67521.0,lewis.verstappen@racingteam.com
+EMP-338,lando Leclerc,Sales & Marketing,2020-08-03,105776.0,lando.leclerc
+EMP-453,George Alonso,Engineering,2018-07-02,135176.0,george.alonso@racingteam.com
+EMP-562,Max Alonso,Sales & Marketing,2018-07-04,132177.0,max.alonso@racingteam.com
+EMP-796,fernando Albon,Sales & Marketing,2021-03-16,46504.0,missing_email@email.com
+EMP-889,Charles Russell,Pit Crew,2022-06-22,88922.0,charles.russell@racingteam.com
+EMP-664,Alex Alonso,Aerodynamics,2022-12-31,61563.0,alex.alonso@racingteam.com
+EMP-843,Alex Tsunoda,Engineering,2021-12-12,70362.0,alex.tsunoda@racingteam.com
+EMP-309,Charles Norris,Engineering,2015-11-17,106220.0,charles.norris@racingteam.com
+EMP-603,George RUSSELL   ,Aerodynamics,2016-06-17,142162.0,george.russell@racingteam.com
+EMP-361,Alex Alonso,Engineering,2021-08-08,113151.0,alex.alonso@racingteam.com
+EMP-572,Oscar Leclerc,Sales & Marketing,2020-11-26,86059.0,oscar.leclerc@racingteam.com
+EMP-720,Yuki Hamilton,Pit Crew,2017-02-17,133835.0,yuki.hamilton@racingteam.com
+EMP-626,lando Alonso,Pit Crew,2021-07-20,45739.0,lando.alonso@racingteam.com
+EMP-542,Fernando Tsunoda,Logistics,2015-06-01,108714.0,fernando.tsunoda@racingteam.com
+EMP-575,Alex Hamilton,Aerodynamics,2020-05-29,77884.0,alex.hamilton@racingteam.com
+EMP-373,Carlos Russell,Logistics,2020-02-19,91399.0,carlos.russell@racingteam.com
+EMP-651,Lewis Piastri,Logistics,2017-09-07,132796.0,lewis.piastri@racingteam.com
+EMP-218,Lewis Norris,Logistics,2016-04-20,61700.0,lewis.norris@racingteam.com
+EMP-556,Lando Alonso,Pit Crew,2020-07-03,120514.0,lando.alonso
+EMP-490,George Leclerc,Sales & Marketing,2018-01-05,64808.0,george.leclerc@racingteam.com
+EMP-598,Lewis Russell,Logistics,2016-09-11,112552.0,missing_email@email.com
+EMP-119,Alex Russell,Aerodynamics,2021-01-16,69886.0,alex.russell@racingteam.com
+EMP-409,alex Piastri,Pit Crew,2016-02-29,62601.0,alex.piastri@racingteam.com
+EMP-272,yuki Sainz,Sales & Marketing,2022-05-04,101485.0,yuki.sainz@racingteam.com
+EMP-747,Max Verstappen,Pit Crew,2016-06-27,130208.0,max.verstappen@racingteam.com
+EMP-534,Oscar Tsunoda,Sales & Marketing,2021-06-25,140802.0,oscar.tsunoda@racingteam.com
+EMP-923,Yuki Piastri,Logistics,2021-11-16,96505.0,yuki.piastri@racingteam.com
+EMP-185,Fernando Hamilton,Sales & Marketing,2017-12-21,69535.0,fernando.hamilton
+EMP-208,Alex Norris,Pit Crew,2017-12-17,108646.0,alex.norris@racingteam.com
+EMP-260,Alex Tsunoda,Sales & Marketing,2017-05-07,47376.0,alex.tsunoda@racingteam.com
+EMP-449,Lewis Piastri,Sales & Marketing,2022-06-16,143724.0,lewis.piastri@racingteam.com
+EMP-479,lando Albon,Sales & Marketing,2020-11-04,123311.0,lando.albon@racingteam.com
+EMP-723,Yuki Sainz,Sales & Marketing,2022-10-23,144937.0,yuki.sainz
+EMP-889,Alex Hamilton,Sales & Marketing,2015-05-05,127203.0,alex.hamilton@racingteam.com
+EMP-396,Carlos Sainz,Pit Crew,2022-03-11,109738.0,missing_email@email.com
+EMP-447,Carlos RUSSELL   ,Aerodynamics,2022-05-02,105079.0,carlos.russell@racingteam.com
+EMP-526,Lando Verstappen,Aerodynamics,2022-02-02,84948.0,lando.verstappen@racingteam.com
+EMP-419,Yuki Leclerc,Engineering,2019-01-29,104301.0,yuki.leclerc@racingteam.com
+EMP-103,Fernando Verstappen,Aerodynamics,2017-10-19,145611.0,fernando.verstappen@racingteam.com
+EMP-108,George Verstappen,Logistics,2019-02-17,109665.0,george.verstappen@racingteam.com
+EMP-735,Carlos ALBON   ,Engineering,2017-12-19,65585.0,carlos.albon@racingteam.com
+EMP-675,lewis Sainz,Pit Crew,2021-02-07,131266.0,lewis.sainz@racingteam.com
+EMP-720,George Piastri,Logistics,2017-10-13,89939.0,george.piastri@racingteam.com
+EMP-561,Charles HAMILTON   ,Aerodynamics,2022-10-15,105542.0,charles.hamilton@racingteam.com
+EMP-576,Yuki Alonso,Pit Crew,2022-02-26,67273.0,yuki.alonso@racingteam.com
+EMP-682,Fernando Russell,Sales & Marketing,2015-10-26,53851.0,fernando.russell@racingteam.com
+EMP-294,Carlos Alonso,Engineering,2022-06-01,114220.0,carlos.alonso
+EMP-342,Charles LECLERC   ,Pit Crew,2019-08-14,141345.0,charles.leclerc@racingteam.com
+EMP-216,Yuki Norris,Pit Crew,2018-01-24,108242.0,yuki.norris@racingteam.com
+EMP-132,Max NORRIS   ,Logistics,2019-05-11,113920.0,max.norris@racingteam.com
+EMP-555,Carlos Russell,Sales & Marketing,2016-10-10,110956.0,carlos.russell@racingteam.com
+EMP-919,Lewis Piastri,Aerodynamics,2020-07-09,138959.0,lewis.piastri@racingteam.com
+EMP-266,Alex Sainz,Engineering,2015-08-05,99986.0,alex.sainz@racingteam.com
+EMP-941,Lewis Albon,Aerodynamics,2021-07-22,141909.0,lewis.albon@racingteam.com
+EMP-776,Lando Tsunoda,Sales & Marketing,2022-06-27,87389.0,lando.tsunoda@racingteam.com
+EMP-790,Fernando HAMILTON   ,Sales & Marketing,2016-05-29,128744.0,fernando.hamilton
+EMP-884,Oscar Tsunoda,Aerodynamics,2017-08-18,86904.0,oscar.tsunoda
+EMP-492,Charles Alonso,Logistics,2021-02-04,95134.0,charles.alonso@racingteam.com
+EMP-611,Lando Piastri,Logistics,2016-01-24,127689.0,lando.piastri@racingteam.com
+EMP-462,lewis Alonso,Sales & Marketing,2022-10-26,134658.0,lewis.alonso
+EMP-928,Carlos Leclerc,Engineering,2018-10-10,94797.0,carlos.leclerc@racingteam.com
+EMP-720,carlos Piastri,Engineering,2019-02-03,73437.0,missing_email@email.com
+EMP-688,Lewis Tsunoda,Logistics,2017-06-28,61809.0,lewis.tsunoda@racingteam.com
+EMP-884,Lewis Norris,Engineering,2017-04-23,54849.0,lewis.norris
+EMP-649,oscar Tsunoda,Logistics,2022-04-23,143695.0,oscar.tsunoda@racingteam.com
+EMP-228,Charles Sainz,Engineering,2017-05-07,64025.0,charles.sainz@racingteam.com
+EMP-918,Alex Sainz,Logistics,2021-03-01,133039.0,alex.sainz
+EMP-831,lewis Hamilton,Pit Crew,2015-07-03,90839.0,lewis.hamilton@racingteam.com
+EMP-943,Alex Leclerc,Engineering,2016-12-28,86830.0,alex.leclerc@racingteam.com
+EMP-305,Oscar SAINZ   ,Aerodynamics,2023-02-22,121406.0,oscar.sainz@racingteam.com
+EMP-737,Oscar Piastri,Logistics,2016-08-02,82128.0,oscar.piastri@racingteam.com
+EMP-220,Max Verstappen,Pit Crew,2021-11-04,66755.0,max.verstappen@racingteam.com
+EMP-888,Charles Albon,Logistics,2023-01-25,86628.0,missing_email@email.com
+EMP-526,george Piastri,Engineering,2019-12-20,128071.0,george.piastri@racingteam.com
+EMP-444,Fernando Tsunoda,Sales & Marketing,2019-04-16,102892.0,fernando.tsunoda@racingteam.com
+EMP-282,Charles Hamilton,Logistics,2021-04-21,104682.0,charles.hamilton@racingteam.com
+EMP-142,Lando VERSTAPPEN   ,Logistics,2017-12-24,107027.0,lando.verstappen@racingteam.com
+EMP-204,Charles Alonso,Engineering,2016-01-29,107111.0,charles.alonso
+EMP-568,Fernando LECLERC   ,Aerodynamics,2016-10-08,127324.0,fernando.leclerc@racingteam.com
+EMP-741,oscar Verstappen,Engineering,2015-03-31,64978.0,oscar.verstappen@racingteam.com
+EMP-402,Alex Sainz,Logistics,2019-10-07,105903.0,alex.sainz@racingteam.com
+EMP-699,Lewis Tsunoda,Aerodynamics,2016-09-22,128958.0,lewis.tsunoda@racingteam.com
+EMP-700,Charles Sainz,Logistics,2019-09-25,71263.0,charles.sainz@racingteam.com
+EMP-681,Carlos ALBON   ,Pit Crew,2020-04-23,72720.0,carlos.albon@racingteam.com
+EMP-873,Alex Piastri,Engineering,2016-12-27,54760.0,alex.piastri@racingteam.com
+EMP-525,George Sainz,Aerodynamics,2018-05-29,73298.0,george.sainz
+EMP-780,Alex Alonso,Pit Crew,2022-07-09,141457.0,alex.alonso
+EMP-533,Charles Tsunoda,Engineering,2020-06-28,69523.0,charles.tsunoda@racingteam.com
+EMP-686,Charles Piastri,Logistics,2017-09-22,50776.0,charles.piastri@racingteam.com
+EMP-587,Lando Alonso,Engineering,2021-05-31,138934.0,missing_email@email.com
+EMP-934,George Leclerc,Sales & Marketing,2019-04-29,107684.0,george.leclerc@racingteam.com
+EMP-592,Alex Alonso,Sales & Marketing,2016-05-04,141070.0,alex.alonso@racingteam.com
+EMP-529,Oscar Piastri,Sales & Marketing,2019-11-21,95968.0,oscar.piastri@racingteam.com
+EMP-364,lando HAMILTON   ,Logistics,2017-05-27,129853.0,lando.hamilton@racingteam.com
+EMP-353,George Alonso,Logistics,2021-06-07,99758.0,george.alonso
+EMP-639,Lando Tsunoda,Logistics,2020-01-26,149844.0,lando.tsunoda@racingteam.com
+EMP-353,Oscar Hamilton,Engineering,2022-09-03,126950.0,oscar.hamilton@racingteam.com
+EMP-371,Lando Norris,Logistics,2018-09-04,138212.0,lando.norris@racingteam.com
+EMP-245,Lewis Tsunoda,Pit Crew,2015-05-02,82237.0,lewis.tsunoda@racingteam.com
+EMP-500,Charles Norris,Aerodynamics,2017-04-25,71958.0,charles.norris@racingteam.com
+EMP-836,Oscar Alonso,Engineering,2020-04-28,143536.0,oscar.alonso@racingteam.com
+EMP-117,Oscar Alonso,Aerodynamics,2020-11-17,70156.0,oscar.alonso@racingteam.com
+EMP-186,Carlos Hamilton,Aerodynamics,2019-04-25,74418.0,carlos.hamilton@racingteam.com
+EMP-756,Carlos Piastri,Aerodynamics,2017-10-03,96853.0,carlos.piastri
+EMP-775,Charles TSUNODA   ,Sales & Marketing,2017-12-18,50610.0,charles.tsunoda@racingteam.com
+EMP-298,Fernando Hamilton,Pit Crew,2020-06-24,93258.0,fernando.hamilton@racingteam.com
+EMP-546,Lando Tsunoda,Logistics,2016-11-14,136318.0,lando.tsunoda@racingteam.com
+EMP-653,Lewis Sainz,Pit Crew,2020-09-14,50747.0,lewis.sainz@racingteam.com
+EMP-824,Yuki Hamilton,Pit Crew,2021-09-21,135681.0,yuki.hamilton@racingteam.com
+EMP-355,Lando Tsunoda,Logistics,2021-09-04,143992.0,lando.tsunoda@racingteam.com
+EMP-239,Alex Norris,Sales & Marketing,2016-05-09,145969.0,alex.norris@racingteam.com
+EMP-233,Carlos Leclerc,Aerodynamics,2016-11-30,53383.0,missing_email@email.com
+EMP-790,Lando VERSTAPPEN   ,Aerodynamics,2020-04-16,64671.0,lando.verstappen@racingteam.com
+EMP-213,Alex TSUNODA   ,Logistics,2023-02-11,78540.0,alex.tsunoda@racingteam.com
+EMP-240,George Verstappen,Pit Crew,2018-01-26,99415.0,george.verstappen@racingteam.com
+EMP-418,Alex RUSSELL   ,Aerodynamics,2022-07-29,95279.0,alex.russell@racingteam.com
+EMP-138,Lando Sainz,Logistics,2018-09-20,71406.0,lando.sainz@racingteam.com
+EMP-499,Fernando Albon,Engineering,2021-08-22,148631.0,fernando.albon@racingteam.com
+EMP-912,Yuki Alonso,Sales & Marketing,2019-03-15,111527.0,yuki.alonso@racingteam.com
+EMP-597,Max Piastri,Logistics,2017-09-22,98354.0,max.piastri
+EMP-142,Alex Verstappen,Aerodynamics,2021-02-16,84515.0,alex.verstappen@racingteam.com
+EMP-205,carlos Norris,Sales & Marketing,2020-07-31,128930.0,carlos.norris
+EMP-520,Oscar Albon,Logistics,2019-02-18,108115.0,oscar.albon
+EMP-170,Oscar Leclerc,Logistics,2020-12-01,100461.0,oscar.leclerc@racingteam.com
+EMP-616,Charles Norris,Aerodynamics,2022-03-07,115088.0,charles.norris@racingteam.com
+EMP-880,Charles Verstappen,Logistics,2020-11-18,58176.0,charles.verstappen@racingteam.com
+EMP-850,Oscar Verstappen,Aerodynamics,2018-11-19,135893.0,oscar.verstappen@racingteam.com
+EMP-767,Alex Hamilton,Logistics,2018-02-02,97095.0,alex.hamilton@racingteam.com
+EMP-949,Yuki Leclerc,Logistics,2015-11-21,73266.0,yuki.leclerc@racingteam.com
+EMP-568,Yuki Norris,Aerodynamics,2017-04-14,68678.0,yuki.norris@racingteam.com
+EMP-939,carlos Verstappen,Engineering,2021-10-02,122566.0,missing_email@email.com
+EMP-475,Oscar Hamilton,Pit Crew,2021-01-26,52077.0,oscar.hamilton@racingteam.com
+EMP-128,Max Hamilton,Engineering,2018-06-20,71440.0,max.hamilton
+EMP-566,Charles Hamilton,Engineering,2016-01-14,95377.0,charles.hamilton@racingteam.com
+EMP-281,george Sainz,Engineering,2020-11-25,54506.0,george.sainz@racingteam.com
+EMP-339,Lewis Albon,Sales & Marketing,2017-07-09,79816.0,lewis.albon
+EMP-788,Charles Russell,Engineering,2016-08-02,99819.0,charles.russell@racingteam.com
+EMP-182,Charles Sainz,Logistics,2017-02-26,77778.0,charles.sainz@racingteam.com
+EMP-860,Yuki Piastri,Pit Crew,2019-02-11,144193.0,yuki.piastri@racingteam.com
+EMP-189,Fernando Piastri,Engineering,2021-06-04,85944.0,fernando.piastri@racingteam.com
+EMP-803,yuki NORRIS   ,Sales & Marketing,2019-03-07,117924.0,yuki.norris@racingteam.com
+EMP-940,Charles Albon,Pit Crew,2021-09-09,75122.0,missing_email@email.com
+EMP-302,Lando Piastri,Aerodynamics,2015-01-29,131066.0,lando.piastri@racingteam.com
+EMP-182,Carlos SAINZ   ,Logistics,2019-09-01,148840.0,carlos.sainz@racingteam.com
+EMP-156,Lando Russell,Aerodynamics,2018-04-02,68149.0,lando.russell@racingteam.com
+EMP-683,Lewis Alonso,Aerodynamics,2021-11-09,97978.0,lewis.alonso@racingteam.com
+EMP-181,Oscar RUSSELL   ,Pit Crew,2020-02-05,129029.0,missing_email@email.com
+EMP-393,Fernando Alonso,Engineering,2020-09-30,86110.0,fernando.alonso@racingteam.com
+EMP-927,Oscar Tsunoda,Logistics,2017-10-02,56359.0,oscar.tsunoda@racingteam.com
+EMP-647,Carlos Leclerc,Aerodynamics,2019-06-15,69420.0,carlos.leclerc@racingteam.com
+EMP-122,Oscar Alonso,Pit Crew,2019-05-21,140257.0,oscar.alonso@racingteam.com
+EMP-803,Lando Tsunoda,Aerodynamics,2018-02-28,125700.0,lando.tsunoda@racingteam.com
+EMP-760,Alex Sainz,Aerodynamics,2022-07-13,117447.0,alex.sainz@racingteam.com
+EMP-154,George Sainz,Sales & Marketing,2020-09-01,98626.0,george.sainz@racingteam.com
+EMP-111,alex Leclerc,Aerodynamics,2015-04-14,62111.0,alex.leclerc@racingteam.com
+EMP-806,Oscar Piastri,Aerodynamics,2015-11-09,62200.0,oscar.piastri@racingteam.com
+EMP-447,Charles Albon,Engineering,2015-11-05,115232.0,charles.albon@racingteam.com
+EMP-730,fernando Hamilton,Sales & Marketing,2017-08-25,58022.0,fernando.hamilton@racingteam.com
+EMP-556,Max Albon,Aerodynamics,2018-08-07,149360.0,max.albon@racingteam.com
+EMP-263,George Piastri,Sales & Marketing,2017-02-02,101640.0,george.piastri@racingteam.com
+EMP-581,Oscar Sainz,Aerodynamics,2017-09-12,143707.0,oscar.sainz@racingteam.com
+EMP-915,Lando RUSSELL   ,Pit Crew,2019-06-30,76270.0,lando.russell@racingteam.com
+EMP-243,Oscar Hamilton,Logistics,2018-07-27,89909.0,oscar.hamilton@racingteam.com
+EMP-478,Charles VERSTAPPEN   ,Pit Crew,2016-08-28,115761.0,charles.verstappen@racingteam.com
+EMP-767,Oscar Russell,Pit Crew,2019-10-31,138423.0,oscar.russell@racingteam.com
+EMP-848,Lando Norris,Engineering,2016-06-29,133753.0,lando.norris@racingteam.com
+EMP-900,Carlos HAMILTON   ,Aerodynamics,2016-12-11,46424.0,carlos.hamilton@racingteam.com
+EMP-820,Charles Verstappen,Aerodynamics,2017-05-20,52730.0,charles.verstappen@racingteam.com
+EMP-767,fernando Piastri,Aerodynamics,2016-06-25,123792.0,fernando.piastri@racingteam.com
+EMP-770,Lando Verstappen,Pit Crew,2018-09-19,121751.0,lando.verstappen@racingteam.com
+EMP-911,Charles Leclerc,Sales & Marketing,2017-09-13,121435.0,charles.leclerc@racingteam.com
+EMP-665,Oscar Alonso,Engineering,2017-09-05,75613.0,oscar.alonso@racingteam.com
+EMP-689,George Albon,Pit Crew,2016-08-09,113321.0,george.albon@racingteam.com
+EMP-870,Lando Albon,Sales & Marketing,2016-07-26,129491.0,lando.albon@racingteam.com
+EMP-948,Lewis ALONSO   ,Engineering,2015-11-03,76640.0,lewis.alonso@racingteam.com
+EMP-482,Lando Russell,Logistics,2016-04-27,108324.0,lando.russell@racingteam.com
+EMP-155,Charles Leclerc,Logistics,2020-02-18,138804.0,charles.leclerc
+EMP-387,Carlos Tsunoda,Engineering,2016-02-15,76608.0,carlos.tsunoda@racingteam.com
+EMP-462,Fernando Verstappen,Logistics,2019-12-13,57820.0,fernando.verstappen@racingteam.com
+EMP-631,Lewis Norris,Logistics,2022-01-04,114924.0,lewis.norris@racingteam.com
+EMP-289,Charles SAINZ   ,Aerodynamics,2021-10-07,56495.0,charles.sainz@racingteam.com
+EMP-666,Fernando Hamilton,Sales & Marketing,2023-01-24,113014.0,fernando.hamilton@racingteam.com
+EMP-804,Alex Norris,Sales & Marketing,2022-08-02,64484.0,alex.norris@racingteam.com
+EMP-393,George Norris,Pit Crew,2022-12-23,148396.0,george.norris@racingteam.com
+EMP-127,Yuki Verstappen,Aerodynamics,2019-08-03,63242.0,yuki.verstappen@racingteam.com
+EMP-537,Lando Hamilton,Engineering,2020-03-14,82122.0,lando.hamilton@racingteam.com
+EMP-273,Oscar Tsunoda,Engineering,2022-12-19,63585.0,oscar.tsunoda@racingteam.com
+EMP-467,Lewis Hamilton,Sales & Marketing,2023-02-07,86973.0,lewis.hamilton@racingteam.com
+EMP-187,George Piastri,Engineering,2019-05-05,99870.0,george.piastri@racingteam.com
+EMP-637,fernando Piastri,Pit Crew,2021-04-25,138740.0,missing_email@email.com
+EMP-652,Oscar Verstappen,Engineering,2017-03-04,64558.0,oscar.verstappen@racingteam.com
+EMP-678,Charles Russell,Aerodynamics,2019-05-29,143676.0,charles.russell@racingteam.com
+EMP-119,Oscar Sainz,Logistics,2015-05-31,116233.0,oscar.sainz@racingteam.com
+EMP-172,Fernando Russell,Pit Crew,2021-11-13,149133.0,fernando.russell@racingteam.com
+EMP-230,Charles Alonso,Sales & Marketing,2019-08-23,128440.0,charles.alonso@racingteam.com
+EMP-467,Lando Hamilton,Aerodynamics,2017-07-21,54351.0,lando.hamilton@racingteam.com
+EMP-404,Alex Alonso,Aerodynamics,2021-06-26,89150.0,alex.alonso@racingteam.com
+EMP-304,Yuki Tsunoda,Logistics,2016-01-05,93265.0,yuki.tsunoda@racingteam.com
+EMP-932,Lewis Hamilton,Sales & Marketing,2021-09-23,82089.0,lewis.hamilton@racingteam.com
+EMP-504,Fernando Albon,Engineering,2017-03-26,122982.0,fernando.albon@racingteam.com
+EMP-427,Charles Alonso,Aerodynamics,2017-09-08,121812.0,charles.alonso@racingteam.com
+EMP-274,Oscar Leclerc,Pit Crew,2021-04-08,68995.0,oscar.leclerc@racingteam.com
+EMP-273,Carlos RUSSELL   ,Engineering,2018-02-04,91285.0,carlos.russell@racingteam.com
+EMP-487,Lando Norris,Pit Crew,2020-06-28,90731.0,lando.norris@racingteam.com
+EMP-624,Fernando Verstappen,Logistics,2022-06-24,64391.0,fernando.verstappen@racingteam.com
+EMP-230,Yuki Hamilton,Pit Crew,2017-12-14,144819.0,yuki.hamilton@racingteam.com
+EMP-313,alex Albon,Sales & Marketing,2015-03-03,85572.0,alex.albon@racingteam.com
+EMP-279,Alex Norris,Engineering,2017-03-15,127132.0,alex.norris
+EMP-415,Fernando Norris,Pit Crew,2018-01-06,143079.0,fernando.norris@racingteam.com
+EMP-243,Yuki RUSSELL   ,Sales & Marketing,2017-12-29,84576.0,yuki.russell@racingteam.com
+EMP-648,Lewis Leclerc,Engineering,2016-04-23,86500.0,lewis.leclerc@racingteam.com
+EMP-174,George Piastri,Pit Crew,2018-02-27,102367.0,george.piastri@racingteam.com
+EMP-554,Yuki Sainz,Pit Crew,2021-03-29,52678.0,yuki.sainz
+EMP-826,Carlos Albon,Sales & Marketing,2022-09-18,98588.0,carlos.albon@racingteam.com
+EMP-655,George Norris,Logistics,2022-06-25,133374.0,george.norris@racingteam.com
+EMP-906,Lando Alonso,Engineering,2020-02-29,149247.0,lando.alonso@racingteam.com
+EMP-436,charles Piastri,Logistics,2019-01-25,73074.0,charles.piastri@racingteam.com
+EMP-718,Alex Hamilton,Sales & Marketing,2019-01-28,74218.0,alex.hamilton@racingteam.com
+EMP-855,Alex Alonso,Logistics,2015-05-26,125969.0,alex.alonso
+EMP-540,george Sainz,Pit Crew,2020-08-18,145779.0,george.sainz@racingteam.com
+EMP-188,Yuki Verstappen,Pit Crew,2018-05-23,94049.0,yuki.verstappen@racingteam.com
+EMP-168,Max Tsunoda,Aerodynamics,2015-11-10,111112.0,max.tsunoda@racingteam.com
+EMP-167,Lewis Alonso,Aerodynamics,2019-11-15,125254.0,lewis.alonso@racingteam.com
+EMP-691,Charles Tsunoda,Engineering,2017-03-12,46197.0,charles.tsunoda@racingteam.com
+EMP-278,George Norris,Logistics,2017-03-12,102345.0,george.norris@racingteam.com
+EMP-376,Fernando Verstappen,Engineering,2019-12-05,109217.0,fernando.verstappen@racingteam.com
+EMP-161,George Russell,Engineering,2016-08-13,117286.0,george.russell@racingteam.com
+EMP-279,Lando ALBON   ,Pit Crew,2017-07-22,140538.0,lando.albon@racingteam.com
+EMP-305,carlos VERSTAPPEN   ,Pit Crew,2018-01-27,105846.0,carlos.verstappen@racingteam.com
+EMP-713,george Tsunoda,Pit Crew,2017-09-13,55322.0,george.tsunoda@racingteam.com
+EMP-870,Yuki Norris,Sales & Marketing,2018-10-27,51734.0,yuki.norris@racingteam.com
+EMP-504,George Alonso,Logistics,2015-06-09,61315.0,george.alonso@racingteam.com
+EMP-760,Fernando HAMILTON   ,Aerodynamics,2021-01-10,136847.0,fernando.hamilton@racingteam.com
+EMP-476,Alex Tsunoda,Sales & Marketing,2019-09-11,71174.0,missing_email@email.com
+EMP-593,Yuki Tsunoda,Sales & Marketing,2015-06-26,122640.0,yuki.tsunoda@racingteam.com
+EMP-850,George Leclerc,Engineering,2021-01-29,52698.0,george.leclerc@racingteam.com
+EMP-123,George ALONSO   ,Logistics,2017-11-19,58019.0,george.alonso@racingteam.com
+EMP-300,Fernando Norris,Sales & Marketing,2017-03-04,119148.0,fernando.norris@racingteam.com
+EMP-825,Lando Norris,Logistics,2017-01-26,136180.0,lando.norris@racingteam.com
+EMP-362,George Leclerc,Aerodynamics,2016-11-01,59168.0,george.leclerc@racingteam.com
+EMP-741,Oscar Tsunoda,Engineering,2022-08-13,88410.0,oscar.tsunoda@racingteam.com
+EMP-710,Yuki Norris,Aerodynamics,2019-08-08,131424.0,yuki.norris@racingteam.com
+EMP-648,Charles Alonso,Sales & Marketing,2021-04-16,123266.0,charles.alonso@racingteam.com
+EMP-905,George Tsunoda,Logistics,2018-05-30,148461.0,george.tsunoda@racingteam.com
+EMP-109,Lando Piastri,Aerodynamics,2020-05-21,103238.0,lando.piastri@racingteam.com
+EMP-545,Charles Verstappen,Sales & Marketing,2018-08-29,80645.0,charles.verstappen@racingteam.com
+EMP-439,Fernando Russell,Pit Crew,2022-10-17,143228.0,fernando.russell@racingteam.com
+EMP-806,George Norris,Sales & Marketing,2020-11-16,85668.0,george.norris@racingteam.com
+EMP-496,George Hamilton,Aerodynamics,2022-05-15,146122.0,george.hamilton@racingteam.com
+EMP-430,George Hamilton,Pit Crew,2021-07-03,63837.0,george.hamilton@racingteam.com
+EMP-902,Lewis Hamilton,Pit Crew,2016-04-01,122564.0,lewis.hamilton@racingteam.com
+EMP-844,Fernando Norris,Engineering,2018-08-08,87981.0,fernando.norris@racingteam.com
+EMP-283,Alex Albon,Sales & Marketing,2018-07-03,70971.0,alex.albon@racingteam.com
+EMP-649,Charles ALBON   ,Engineering,2015-03-20,126051.0,charles.albon@racingteam.com
+EMP-161,Fernando Piastri,Sales & Marketing,2019-07-06,115328.0,fernando.piastri@racingteam.com
+EMP-590,Carlos Leclerc,Aerodynamics,2017-06-21,57121.0,carlos.leclerc@racingteam.com
+EMP-645,yuki Russell,Aerodynamics,2015-04-14,74573.0,yuki.russell@racingteam.com
+EMP-664,Charles Alonso,Engineering,2018-02-05,99387.0,charles.alonso@racingteam.com
+EMP-538,Alex Alonso,Engineering,2016-01-08,59371.0,alex.alonso@racingteam.com
+EMP-350,Carlos Albon,Pit Crew,2018-09-04,127504.0,carlos.albon@racingteam.com
+EMP-101,Fernando Hamilton,Engineering,2015-09-03,63661.0,fernando.hamilton
+EMP-632,Alex Albon,Logistics,2018-07-18,83905.0,alex.albon@racingteam.com
+EMP-839,Fernando Hamilton,Logistics,2019-12-17,80231.0,fernando.hamilton@racingteam.com
+EMP-547,Fernando Tsunoda,Engineering,2020-07-30,149502.0,fernando.tsunoda@racingteam.com
+EMP-576,Carlos Norris,Pit Crew,2015-03-20,130119.0,carlos.norris@racingteam.com
+EMP-478,Charles Hamilton,Engineering,2015-05-16,56062.0,charles.hamilton@racingteam.com
+EMP-925,Carlos Leclerc,Logistics,2018-07-17,84326.0,carlos.leclerc@racingteam.com
+EMP-815,Carlos Alonso,Aerodynamics,2015-09-04,148440.0,carlos.alonso@racingteam.com
+EMP-100,Oscar Leclerc,Aerodynamics,2020-07-07,107530.0,oscar.leclerc@racingteam.com
+EMP-333,Charles Alonso,Sales & Marketing,2020-10-15,92418.0,charles.alonso@racingteam.com
+EMP-614,Carlos Verstappen,Logistics,2020-10-06,65869.0,carlos.verstappen@racingteam.com
+EMP-775,Lando Verstappen,Engineering,2020-09-13,89359.0,lando.verstappen@racingteam.com
+EMP-553,Lewis Leclerc,Sales & Marketing,2019-08-24,121962.0,missing_email@email.com
+EMP-601,George Verstappen,Sales & Marketing,2017-07-07,62197.0,george.verstappen
+EMP-836,Alex Norris,Sales & Marketing,2017-03-29,113569.0,alex.norris@racingteam.com
+EMP-450,Lando Piastri,Pit Crew,2021-06-07,142800.0,lando.piastri@racingteam.com
+EMP-268,Yuki VERSTAPPEN   ,Aerodynamics,2022-02-02,146929.0,yuki.verstappen@racingteam.com
+EMP-708,Fernando Russell,Engineering,2022-09-16,87936.0,fernando.russell@racingteam.com
+EMP-797,Charles Norris,Pit Crew,2015-05-17,140991.0,charles.norris@racingteam.com
+EMP-817,George Norris,Sales & Marketing,2019-05-29,78493.0,george.norris@racingteam.com
+EMP-872,Carlos VERSTAPPEN   ,Engineering,2020-04-23,118920.0,carlos.verstappen@racingteam.com
+EMP-341,Fernando NORRIS   ,Aerodynamics,2022-04-16,64142.0,fernando.norris@racingteam.com
+EMP-490,Oscar Russell,Aerodynamics,2015-10-14,51829.0,missing_email@email.com
+EMP-171,Charles Leclerc,Aerodynamics,2019-10-19,68267.0,charles.leclerc@racingteam.com
+EMP-373,Lewis Leclerc,Sales & Marketing,2016-09-06,77189.0,lewis.leclerc@racingteam.com
+EMP-769,Charles Norris,Pit Crew,2021-10-07,132231.0,charles.norris@racingteam.com
+EMP-195,George Albon,Aerodynamics,2022-05-01,101911.0,missing_email@email.com
+EMP-825,Alex Verstappen,Logistics,2020-05-02,133063.0,alex.verstappen@racingteam.com
+EMP-602,Alex Verstappen,Sales & Marketing,2021-04-28,116516.0,alex.verstappen@racingteam.com
+EMP-148,charles Sainz,Pit Crew,2020-04-17,124498.0,charles.sainz@racingteam.com
+EMP-460,George Piastri,Pit Crew,2016-12-21,93905.0,george.piastri@racingteam.com
+EMP-131,Yuki Leclerc,Sales & Marketing,2021-02-13,128105.0,yuki.leclerc@racingteam.com
+EMP-830,Yuki Leclerc,Engineering,2015-03-15,68230.0,yuki.leclerc@racingteam.com
+EMP-525,Charles SAINZ   ,Sales & Marketing,2018-12-18,74607.0,charles.sainz@racingteam.com
+EMP-877,Carlos Sainz,Logistics,2016-05-30,86515.0,carlos.sainz@racingteam.com
+EMP-884,Alex Leclerc,Engineering,2022-01-02,66697.0,alex.leclerc
+EMP-902,Oscar Tsunoda,Sales & Marketing,2018-06-10,146475.0,oscar.tsunoda@racingteam.com
+EMP-216,George Alonso,Logistics,2022-06-25,73903.0,george.alonso@racingteam.com
+EMP-635,Alex Leclerc,Sales & Marketing,2018-10-17,51863.0,alex.leclerc@racingteam.com
+EMP-882,Lando TSUNODA   ,Aerodynamics,2019-03-26,135880.0,missing_email@email.com
+EMP-342,Fernando VERSTAPPEN   ,Pit Crew,2017-04-07,71789.0,fernando.verstappen@racingteam.com
+EMP-170,George Verstappen,Sales & Marketing,2018-09-18,119199.0,george.verstappen@racingteam.com
+EMP-145,Lewis LECLERC   ,Logistics,2018-07-06,147350.0,lewis.leclerc@racingteam.com
+EMP-727,Carlos Sainz,Sales & Marketing,2016-11-08,109441.0,carlos.sainz@racingteam.com
+EMP-916,Charles Norris,Engineering,2021-08-16,119572.0,charles.norris@racingteam.com
+EMP-732,Fernando Verstappen,Logistics,2019-04-22,101112.0,fernando.verstappen@racingteam.com
+EMP-844,Alex Piastri,Engineering,2015-07-15,128748.0,alex.piastri@racingteam.com
+EMP-218,Fernando ALBON   ,Sales & Marketing,2021-01-14,142248.0,fernando.albon@racingteam.com
+EMP-609,Alex Albon,Sales & Marketing,2022-08-10,60833.0,alex.albon@racingteam.com
+EMP-157,george Piastri,Aerodynamics,2018-03-21,56835.0,george.piastri@racingteam.com
+EMP-180,yuki Albon,Aerodynamics,2019-03-01,109532.0,yuki.albon@racingteam.com
+EMP-875,Yuki Leclerc,Engineering,2016-05-31,55271.0,yuki.leclerc@racingteam.com
+EMP-486,Fernando SAINZ   ,Aerodynamics,2015-12-09,127232.0,fernando.sainz@racingteam.com
+EMP-206,Lando Sainz,Sales & Marketing,2021-12-30,58068.0,lando.sainz@racingteam.com
+EMP-243,Lando Piastri,Aerodynamics,2015-11-08,145795.0,lando.piastri@racingteam.com
+EMP-149,Lewis Hamilton,Logistics,2022-01-16,57387.0,lewis.hamilton@racingteam.com
+EMP-903,George Albon,Logistics,2017-07-30,135739.0,george.albon@racingteam.com
+EMP-790,Max Alonso,Logistics,2017-02-05,76082.0,max.alonso@racingteam.com
+EMP-760,George Sainz,Aerodynamics,2020-02-06,72801.0,george.sainz@racingteam.com
+EMP-850,Max Sainz,Sales & Marketing,2018-05-10,131409.0,max.sainz@racingteam.com
+EMP-626,Lando Leclerc,Aerodynamics,2022-05-10,62392.0,lando.leclerc@racingteam.com
+EMP-837,Alex Leclerc,Sales & Marketing,2022-06-25,140402.0,alex.leclerc@racingteam.com
+EMP-337,lando Albon,Logistics,2015-03-03,77757.0,lando.albon
+EMP-696,Max Verstappen,Logistics,2017-06-09,139841.0,max.verstappen@racingteam.com
+EMP-178,Max Alonso,Sales & Marketing,2017-01-06,68419.0,max.alonso@racingteam.com
+EMP-381,George Piastri,Engineering,2016-03-23,127441.0,george.piastri
+EMP-279,Max Russell,Sales & Marketing,2015-05-26,108110.0,max.russell@racingteam.com
+EMP-469,charles Hamilton,Pit Crew,2015-08-12,136411.0,charles.hamilton@racingteam.com
+EMP-538,Max Leclerc,Pit Crew,2019-01-16,93738.0,max.leclerc@racingteam.com
+EMP-714,Alex Hamilton,Pit Crew,2021-10-21,143021.0,alex.hamilton@racingteam.com
+EMP-580,Charles Russell,Engineering,2022-12-11,123275.0,charles.russell
+EMP-455,Lewis Norris,Engineering,2016-09-07,82982.0,lewis.norris@racingteam.com
+EMP-462,Lewis Albon,Pit Crew,2017-07-10,84008.0,lewis.albon@racingteam.com
+EMP-560,Oscar LECLERC   ,Engineering,2018-12-02,99381.0,oscar.leclerc@racingteam.com
+EMP-859,charles Norris,Aerodynamics,2018-11-21,147627.0,charles.norris@racingteam.com
+EMP-216,Lando Alonso,Aerodynamics,2021-04-24,56164.0,missing_email@email.com
+EMP-477,George Norris,Pit Crew,2019-07-31,83652.0,george.norris
+EMP-586,Lando Russell,Pit Crew,2021-10-11,111577.0,lando.russell@racingteam.com
+EMP-778,Alex Norris,Engineering,2019-02-05,77118.0,alex.norris@racingteam.com
+EMP-756,Fernando Hamilton,Pit Crew,2020-03-10,146550.0,fernando.hamilton@racingteam.com
+EMP-332,Yuki Russell,Aerodynamics,2018-03-10,66805.0,yuki.russell@racingteam.com
+EMP-102,Lando Piastri,Sales & Marketing,2018-06-22,89279.0,lando.piastri@racingteam.com
+EMP-512,Carlos Tsunoda,Sales & Marketing,2015-12-13,130181.0,carlos.tsunoda@racingteam.com
+EMP-554,Charles HAMILTON   ,Aerodynamics,2019-03-16,77007.0,charles.hamilton@racingteam.com
+EMP-754,Lewis Norris,Engineering,2022-09-23,48517.0,lewis.norris
+EMP-770,George Sainz,Logistics,2017-07-06,132797.0,george.sainz@racingteam.com
+EMP-390,Yuki Leclerc,Aerodynamics,2019-01-01,87624.0,yuki.leclerc@racingteam.com
+EMP-397,Max Piastri,Aerodynamics,2018-10-06,141313.0,max.piastri@racingteam.com
+EMP-263,Fernando Piastri,Pit Crew,2022-05-25,66249.0,fernando.piastri@racingteam.com
+EMP-283,Max Piastri,Aerodynamics,2018-03-02,85723.0,max.piastri@racingteam.com
+EMP-170,Yuki Sainz,Engineering,2023-03-07,100097.0,yuki.sainz@racingteam.com
+EMP-185,Lewis Norris,Engineering,2019-05-20,145037.0,lewis.norris@racingteam.com
+EMP-735,George Sainz,Pit Crew,2016-03-30,105994.0,george.sainz@racingteam.com
+EMP-276,Fernando Norris,Sales & Marketing,2022-04-29,46520.0,fernando.norris
+EMP-925,Lewis Russell,Aerodynamics,2017-07-13,139924.0,lewis.russell@racingteam.com
+EMP-923,Alex Leclerc,Engineering,2017-03-28,56219.0,alex.leclerc@racingteam.com
+EMP-467,Alex Sainz,Logistics,2021-04-25,109517.0,alex.sainz@racingteam.com
+EMP-690,Carlos Albon,Logistics,2016-05-07,114711.0,carlos.albon
+EMP-941,Charles Tsunoda,Sales & Marketing,2019-12-08,66926.0,charles.tsunoda@racingteam.com
+EMP-354,George Tsunoda,Sales & Marketing,2022-05-28,128633.0,george.tsunoda@racingteam.com
+EMP-797,Alex Albon,Pit Crew,2015-10-07,127756.0,alex.albon@racingteam.com
+EMP-105,Lewis Piastri,Sales & Marketing,2016-06-25,118342.0,lewis.piastri@racingteam.com
+EMP-565,Oscar Hamilton,Engineering,2016-10-04,57050.0,oscar.hamilton@racingteam.com
+EMP-190,Charles Albon,Sales & Marketing,2019-04-20,114963.0,charles.albon@racingteam.com
+EMP-480,Charles Hamilton,Aerodynamics,2019-10-25,53371.0,charles.hamilton@racingteam.com
+EMP-586,Alex VERSTAPPEN   ,Aerodynamics,2020-10-17,133805.0,missing_email@email.com
+EMP-249,Lewis Verstappen,Aerodynamics,2022-01-16,143886.0,lewis.verstappen@racingteam.com
+EMP-325,Max Russell,Logistics,2017-12-14,57190.0,max.russell@racingteam.com
+EMP-893,yuki Alonso,Logistics,2020-04-05,78162.0,yuki.alonso@racingteam.com
+EMP-794,Carlos Piastri,Sales & Marketing,2019-10-16,130200.0,carlos.piastri@racingteam.com
+EMP-929,Alex Verstappen,Logistics,2019-10-18,141392.0,alex.verstappen@racingteam.com
+EMP-869,Oscar Russell,Pit Crew,2020-11-22,138801.0,oscar.russell@racingteam.com
+EMP-639,Alex Verstappen,Aerodynamics,2015-03-12,107118.0,alex.verstappen@racingteam.com
+EMP-829,Carlos Alonso,Sales & Marketing,2017-01-10,62245.0,carlos.alonso
+EMP-531,Lewis Norris,Aerodynamics,2018-12-04,53993.0,lewis.norris@racingteam.com
+EMP-696,Charles Russell,Sales & Marketing,2022-12-13,85577.0,charles.russell@racingteam.com
+EMP-213,max NORRIS   ,Pit Crew,2020-12-19,74683.0,max.norris@racingteam.com
+EMP-327,Charles Leclerc,Engineering,2015-11-18,145011.0,charles.leclerc
+EMP-830,Lewis Leclerc,Logistics,2018-04-06,107020.0,lewis.leclerc@racingteam.com
+EMP-390,lewis Verstappen,Aerodynamics,2022-05-13,73419.0,lewis.verstappen@racingteam.com
+EMP-847,Oscar HAMILTON   ,Logistics,2020-04-19,131997.0,oscar.hamilton
+EMP-659,Max Alonso,Engineering,2015-05-13,90688.0,max.alonso
+EMP-619,Lando Hamilton,Engineering,2016-10-23,147056.0,lando.hamilton@racingteam.com
+EMP-238,Fernando ALONSO   ,Sales & Marketing,2022-12-28,104596.0,fernando.alonso@racingteam.com
+EMP-113,Max Tsunoda,Aerodynamics,2021-08-15,112361.0,max.tsunoda@racingteam.com
+EMP-292,George Sainz,Aerodynamics,2016-02-23,61389.0,george.sainz@racingteam.com
+EMP-459,Max Albon,Engineering,2021-04-25,56759.0,missing_email@email.com
+EMP-228,Max Hamilton,Aerodynamics,2019-06-15,53361.0,max.hamilton@racingteam.com
+EMP-394,Carlos Norris,Logistics,2018-06-04,135169.0,carlos.norris@racingteam.com
+EMP-680,Lando Sainz,Sales & Marketing,2020-07-17,138528.0,lando.sainz@racingteam.com
+EMP-493,George Alonso,Engineering,2015-10-21,63873.0,george.alonso@racingteam.com
+EMP-649,George Tsunoda,Aerodynamics,2018-05-11,133892.0,george.tsunoda@racingteam.com
+EMP-182,Oscar Verstappen,Sales & Marketing,2018-05-22,114887.0,oscar.verstappen@racingteam.com
+EMP-817,lando Verstappen,Engineering,2017-04-15,146577.0,lando.verstappen@racingteam.com
+EMP-164,Max Norris,Engineering,2015-06-30,59114.0,max.norris@racingteam.com
+EMP-680,George Verstappen,Sales & Marketing,2016-07-25,118579.0,george.verstappen@racingteam.com
+EMP-843,Carlos Hamilton,Pit Crew,2017-06-27,86275.0,carlos.hamilton@racingteam.com
+EMP-170,Oscar Leclerc,Logistics,2015-01-03,111316.0,oscar.leclerc@racingteam.com
+EMP-453,Carlos Hamilton,Engineering,2020-05-04,142799.0,carlos.hamilton@racingteam.com
+EMP-225,Carlos Russell,Engineering,2018-08-10,118615.0,carlos.russell@racingteam.com
+EMP-391,george SAINZ   ,Pit Crew,2021-07-19,126940.0,george.sainz
+EMP-942,Charles Albon,Aerodynamics,2021-03-28,87746.0,charles.albon@racingteam.com
+EMP-769,Max Alonso,Logistics,2021-01-05,95413.0,max.alonso@racingteam.com
+EMP-331,oscar Tsunoda,Aerodynamics,2019-09-26,107613.0,oscar.tsunoda@racingteam.com
+EMP-722,Lewis Hamilton,Pit Crew,2017-06-12,133761.0,lewis.hamilton@racingteam.com
+EMP-296,Lando Sainz,Aerodynamics,2016-02-18,104429.0,lando.sainz@racingteam.com
+EMP-547,Charles Norris,Sales & Marketing,2022-10-19,100797.0,charles.norris@racingteam.com
+EMP-435,Charles Norris,Engineering,2015-05-30,138543.0,missing_email@email.com
+EMP-338,Carlos Norris,Aerodynamics,2016-07-17,117135.0,carlos.norris@racingteam.com
+EMP-428,Oscar Norris,Logistics,2022-01-11,132862.0,oscar.norris@racingteam.com
+EMP-352,Yuki NORRIS   ,Aerodynamics,2021-08-15,58902.0,yuki.norris@racingteam.com
+EMP-132,Lando Russell,Logistics,2015-01-21,142215.0,missing_email@email.com
+EMP-442,Carlos Leclerc,Pit Crew,2022-06-10,53169.0,carlos.leclerc
+EMP-620,Alex TSUNODA   ,Sales & Marketing,2021-11-23,111665.0,alex.tsunoda@racingteam.com
+EMP-131,Max Albon,Pit Crew,2016-01-01,94516.0,max.albon@racingteam.com
+EMP-250,Alex Sainz,Engineering,2019-12-09,50499.0,alex.sainz@racingteam.com
+EMP-203,oscar Leclerc,Sales & Marketing,2015-06-03,64862.0,oscar.leclerc
+EMP-863,Alex Albon,Logistics,2017-08-15,82294.0,alex.albon@racingteam.com
+EMP-697,Carlos Tsunoda,Sales & Marketing,2019-02-26,137261.0,carlos.tsunoda@racingteam.com
+EMP-859,Charles Alonso,Engineering,2015-04-10,132642.0,charles.alonso
+EMP-749,Lando Norris,Engineering,2015-12-13,117634.0,lando.norris@racingteam.com
+EMP-845,Lando Piastri,Sales & Marketing,2021-01-01,92044.0,lando.piastri@racingteam.com
+EMP-655,Charles Verstappen,Engineering,2018-06-19,113656.0,charles.verstappen@racingteam.com
+EMP-926,Lewis Sainz,Engineering,2015-07-05,136800.0,lewis.sainz@racingteam.com
+EMP-691,Oscar Verstappen,Aerodynamics,2021-03-28,144956.0,oscar.verstappen@racingteam.com
+EMP-544,Carlos Russell,Aerodynamics,2015-06-14,100188.0,carlos.russell@racingteam.com
+EMP-367,george Verstappen,Pit Crew,2022-09-11,137216.0,george.verstappen@racingteam.com
+EMP-514,Yuki Piastri,Aerodynamics,2020-06-27,127361.0,yuki.piastri
+EMP-857,Oscar Verstappen,Engineering,2022-10-22,132096.0,oscar.verstappen@racingteam.com
+EMP-903,lewis Alonso,Sales & Marketing,2020-04-16,68642.0,lewis.alonso@racingteam.com
+EMP-905,Max Verstappen,Logistics,2020-12-25,97664.0,max.verstappen@racingteam.com
+EMP-296,Max Leclerc,Aerodynamics,2021-01-19,114013.0,max.leclerc@racingteam.com
+EMP-714,Lando Albon,Sales & Marketing,2015-10-10,89725.0,lando.albon@racingteam.com
+EMP-618,Yuki Hamilton,Aerodynamics,2022-03-22,148624.0,yuki.hamilton@racingteam.com
+EMP-685,Yuki Tsunoda,Aerodynamics,2020-07-19,94518.0,yuki.tsunoda@racingteam.com
+EMP-668,Oscar ALONSO   ,Logistics,2021-09-15,95493.0,oscar.alonso@racingteam.com
+EMP-854,Carlos Verstappen,Sales & Marketing,2016-12-12,122662.0,carlos.verstappen@racingteam.com
+EMP-395,fernando PIASTRI   ,Pit Crew,2019-07-14,45150.0,fernando.piastri@racingteam.com
+EMP-116,Max Piastri,Sales & Marketing,2021-10-16,107373.0,max.piastri@racingteam.com
+EMP-168,Max Russell,Aerodynamics,2022-08-13,93623.0,max.russell@racingteam.com
+EMP-800,Carlos Leclerc,Aerodynamics,2020-04-15,102065.0,carlos.leclerc@racingteam.com
+EMP-528,George Leclerc,Aerodynamics,2015-01-16,135861.0,george.leclerc@racingteam.com
+EMP-296,Lewis Alonso,Aerodynamics,2016-11-11,56233.0,lewis.alonso@racingteam.com
+EMP-799,Lewis Leclerc,Pit Crew,2021-01-25,104322.0,lewis.leclerc@racingteam.com
+EMP-925,Carlos Hamilton,Sales & Marketing,2016-04-13,106548.0,carlos.hamilton@racingteam.com
+EMP-252,Charles Russell,Sales & Marketing,2016-04-08,140251.0,charles.russell
+EMP-885,Alex Albon,Sales & Marketing,2022-05-22,89742.0,alex.albon@racingteam.com
+EMP-888,Carlos PIASTRI   ,Pit Crew,2016-11-04,96546.0,carlos.piastri@racingteam.com
+EMP-756,charles Albon,Logistics,2019-09-14,134243.0,charles.albon@racingteam.com
+EMP-718,Lewis NORRIS   ,Sales & Marketing,2016-12-04,105314.0,lewis.norris@racingteam.com
+EMP-769,Charles Russell,Logistics,2018-04-06,110683.0,charles.russell@racingteam.com
+EMP-287,Lewis Norris,Engineering,2018-08-25,138493.0,lewis.norris@racingteam.com
+EMP-640,Carlos RUSSELL   ,Aerodynamics,2019-08-28,81002.0,carlos.russell@racingteam.com
+EMP-138,lando Norris,Logistics,2017-07-21,98429.0,lando.norris@racingteam.com
+EMP-536,Yuki Sainz,Pit Crew,2019-01-29,91009.0,yuki.sainz@racingteam.com
+EMP-719,Fernando Hamilton,Pit Crew,2020-11-03,99262.0,fernando.hamilton@racingteam.com
+EMP-186,Carlos Albon,Pit Crew,2022-08-14,132460.0,carlos.albon@racingteam.com
+EMP-176,Max Verstappen,Aerodynamics,2019-11-05,122664.0,max.verstappen@racingteam.com
+EMP-158,Lando Alonso,Engineering,2016-08-07,133878.0,lando.alonso
+EMP-424,Fernando Albon,Sales & Marketing,2022-07-28,110107.0,fernando.albon@racingteam.com
+EMP-536,Lando Sainz,Engineering,2023-01-02,109922.0,lando.sainz@racingteam.com
+EMP-837,Oscar Hamilton,Pit Crew,2016-12-01,114935.0,oscar.hamilton
+EMP-582,Carlos Russell,Engineering,2017-11-25,126663.0,missing_email@email.com
+EMP-717,Fernando Leclerc,Aerodynamics,2018-12-15,102008.0,fernando.leclerc@racingteam.com
+EMP-390,Yuki Albon,Sales & Marketing,2019-07-27,101093.0,yuki.albon
+EMP-578,Max Leclerc,Pit Crew,2017-10-20,83774.0,max.leclerc@racingteam.com
+EMP-732,Lando Verstappen,Engineering,2019-11-13,144663.0,lando.verstappen@racingteam.com
+EMP-701,Lewis Alonso,Pit Crew,2019-04-25,58979.0,lewis.alonso@racingteam.com
+EMP-902,Max Tsunoda,Logistics,2015-02-19,86480.0,max.tsunoda@racingteam.com
+EMP-699,Fernando Tsunoda,Sales & Marketing,2022-07-07,66079.0,fernando.tsunoda@racingteam.com
+EMP-401,Oscar Tsunoda,Pit Crew,2020-04-02,123470.0,oscar.tsunoda@racingteam.com
+EMP-312,Alex Tsunoda,Logistics,2015-10-03,126981.0,alex.tsunoda
+EMP-226,Carlos Verstappen,Engineering,2020-04-27,90843.0,carlos.verstappen@racingteam.com
+EMP-590,charles Verstappen,Logistics,2015-07-02,83894.0,charles.verstappen@racingteam.com
+EMP-473,Yuki Leclerc,Pit Crew,2019-08-08,53444.0,yuki.leclerc@racingteam.com
+EMP-841,Oscar Verstappen,Pit Crew,2015-03-04,69906.0,missing_email@email.com
